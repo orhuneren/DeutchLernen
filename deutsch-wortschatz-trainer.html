@@ -23,6 +23,20 @@
     --skip:#5B6FA8; --skip-bg:#E8EAF6;
     --neu-fg:#8A8377; --neu-bg:#F1EFE8;
   }
+  body.night-mode{
+    --ink:#F2EDE4; --paper:#1B1916; --card:#252220;
+    --line:#3B362F; --accent:#E0A868; --accent-soft:#3A2F22;
+    --good:#8FCB5C; --good-bg:#243018;
+    --hard:#FF6E6E; --hard-bg:#3A1F1F;
+    --mid:#F0B23A; --mid-bg:#3A2C12;
+    --muted:#A8A096;
+    --box0:#FF6E6E; --box0-bg:#3A1F1F;
+    --box1:#F08A4B; --box1-bg:#3A2818;
+    --box2:#F0B23A; --box2-bg:#3A2C12;
+    --box3:#C9D96B; --box3-bg:#2E3318;
+    --skip:#93A8E8; --skip-bg:#232A40;
+    --neu-fg:#A8A096; --neu-bg:#2C2924;
+  }
   *{box-sizing:border-box; -webkit-text-size-adjust:100%; text-size-adjust:100%;}
   html{-webkit-tap-highlight-color:transparent;}
   body{
@@ -30,6 +44,7 @@
     background:var(--paper); color:var(--ink);
     padding:max(24px, env(safe-area-inset-top)) max(16px, env(safe-area-inset-right)) max(60px, env(safe-area-inset-bottom)) max(16px, env(safe-area-inset-left));
     font-size:17px;
+    transition:background 0.2s, color 0.2s;
   }
   .wrap{max-width:640px; margin:0 auto;}
   header{display:flex; justify-content:space-between; align-items:baseline; margin-bottom:20px; flex-wrap:wrap; gap:10px;}
@@ -104,6 +119,7 @@
   .reset-link{font-family:Arial,sans-serif; font-size:13px; color:var(--muted); text-align:center; margin-top:34px; cursor:pointer; text-decoration:underline; padding:10px;}
 
   #ruheToggle.active{background:var(--accent); color:#fff; border-color:var(--accent);}
+  #nightToggle.active{background:var(--ink); color:var(--paper); border-color:var(--ink);}
 
   #lowExitBtn{display:none;}
   body.low-attn-active{padding:0; margin:0; overflow:hidden;}
@@ -175,6 +191,7 @@
       </select>
       <button id="dirToggle" style="font-family:Arial,sans-serif;font-size:14px;font-weight:600;padding:10px 14px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;white-space:nowrap;">DE → EN</button>
       <button id="ruheToggle" style="font-family:Arial,sans-serif;font-size:14px;font-weight:600;padding:10px 14px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;white-space:nowrap;">Ruhemodus</button>
+      <button id="nightToggle" style="font-family:Arial,sans-serif;font-size:14px;font-weight:600;padding:10px 14px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;white-space:nowrap;">Nachtmodus</button>
     </div>
   </header>
 
@@ -232,6 +249,7 @@ let direction = "de-en"; // "de-en" = recognize German, "en-de" = produce German
 let lang = localStorage.getItem("lang-pref") || "en"; // "en" or "tr" — target language
 let level = localStorage.getItem("word-level") || "custom"; // "custom" | "a1" | "a2" | "b1"
 let lowAttentionToggle = localStorage.getItem("low-attention") === "1";
+let nightMode = localStorage.getItem("night-mode") === "1";
 const loadStatus = {};
 
 function levelWords(){ return WORD_DATA.filter(w => w.level === level); }
@@ -740,6 +758,18 @@ function updateRuheBtn(){
   if(btn) btn.classList.toggle("active", lowAttentionToggle);
 }
 
+function applyNightMode(){
+  document.body.classList.toggle("night-mode", nightMode);
+  const btn = document.getElementById("nightToggle");
+  if(btn) btn.classList.toggle("active", nightMode);
+}
+
+document.getElementById("nightToggle").onclick = ()=>{
+  nightMode = !nightMode;
+  localStorage.setItem("night-mode", nightMode ? "1" : "0");
+  applyNightMode();
+};
+
 document.getElementById("ruheToggle").onclick = ()=>{
   lowAttentionToggle = !lowAttentionToggle;
   localStorage.setItem("low-attention", lowAttentionToggle ? "1" : "0");
@@ -762,6 +792,7 @@ document.getElementById("lowExitBtn").onclick = ()=>{
 (async function init(){
   updateDirLabel();
   updateRuheBtn();
+  applyNightMode();
   document.getElementById("sourceBar").textContent = "Lade Wortlisten…";
   const results = await loadWordData();
   renderSourceBar(results);
