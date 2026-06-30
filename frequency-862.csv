@@ -1,0 +1,863 @@
+de,en,cat,ex,pos,tr
+der,the (masc.),"Funktionswörter (Artikel, Pronomen, Präpositionen)",,art,"-i, -ı (eril artikel 'the')"
+die,the (fem./pl.),"Funktionswörter (Artikel, Pronomen, Präpositionen)",,art,"-i, -ı (dişil/çoğul artikel 'the')"
+das,the (neut.),"Funktionswörter (Artikel, Pronomen, Präpositionen)",,art,"-i, -ı (nötr artikel 'the')"
+ein,"a, an (masc./neut.)","Funktionswörter (Artikel, Pronomen, Präpositionen)",,art,bir (eril/nötr)
+eine,"a, an (fem.)","Funktionswörter (Artikel, Pronomen, Präpositionen)",,art,bir (dişil)
+ich,I,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,ben
+du,you (informal),"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,sen
+er,he,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,o (eril)
+sie,she / they,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,o (dişil) / onlar
+es,it,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,o (nötr)
+wir,we,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,biz
+ihr,you (pl. informal),"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,"siz (çoğul, samimi)"
+Sie,you (formal),"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,siz (resmi)
+mich,me (acc.),"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,beni
+mir,me (dat.),"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,bana
+dich,you (acc.),"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,seni
+dir,you (dat.),"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,sana
+ihn,him (acc.),"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,onu (eril)
+ihm,him (dat.),"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,ona (eril)
+uns,us,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,bizi/bize
+euch,"you (pl., acc./dat.)","Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,sizi/size (çoğul)
+mein,my,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,benim
+dein,your,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,senin
+sein,his/its,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,olmak
+ihr (poss.),her/their,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,onun (dişil) / onların
+unser,our,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,bizim
+euer,your (pl.),"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,sizin (çoğul)
+dieser,this,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,bu
+jener,that,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,"şu, o"
+welcher,which,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,hangi
+jeder,"every, each","Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,her
+alle,all,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,"hepsi, tüm"
+alles,everything,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,her şey
+etwas,something,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,bir şey
+nichts,nothing,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,hiçbir şey
+man,one (impersonal),"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,insan (genel özne)
+jemand,someone,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,biri
+niemand,no one,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,hiç kimse
+wer,who,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,kim
+was,what,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,ne
+wo,where,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,nerede
+wann,when,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,ne zaman
+warum,why,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,neden
+wie,how,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,nasıl
+und,and,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,conj,ve
+oder,or,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,conj,veya
+aber,but,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,conj,ama
+denn,"because, for","Funktionswörter (Artikel, Pronomen, Präpositionen)",,conj,çünkü
+doch,"yet, but","Funktionswörter (Artikel, Pronomen, Präpositionen)",,conj,"yine de, ama"
+sondern,but rather,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,conj,"aksine, bilakis"
+dass,that (conj.),"Funktionswörter (Artikel, Pronomen, Präpositionen)",,conj,"ki, -dığı (bağlaç)"
+ob,"whether, if","Funktionswörter (Artikel, Pronomen, Präpositionen)",,conj,"-ip -ipmediği, eğer"
+wenn,"if, when","Funktionswörter (Artikel, Pronomen, Präpositionen)",,conj,"eğer, -dığında"
+weil,because,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,conj,çünkü
+als,"as, when, than","Funktionswörter (Artikel, Pronomen, Präpositionen)",,conj,"iken, olarak, -den (kıyas)"
+in,in,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,içinde
+an,"at, on","Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,"-de, üzerinde"
+auf,"on, upon","Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,üzerinde
+für,for,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,için
+mit,with,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,ile
+von,"from, of","Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,"-den, -in"
+zu,to,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,"-e, -a"
+bei,"at, near, with","Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,"yanında, sırasında"
+nach,"after, to","Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,"sonra, -e doğru"
+aus,"out of, from","Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,-den (içinden)
+über,"over, about","Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,"üzerinde, hakkında"
+unter,under,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,altında
+durch,through,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,"aracılığıyla, içinden"
+gegen,against,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,karşı
+ohne,without,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,-siz
+um,"around, at (time)","Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,"etrafında, saat (zaman)"
+zwischen,between,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,arasında
+neben,next to,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,yanında
+vor,"before, in front of","Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,"önce, önünde"
+hinter,behind,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,arkasında
+seit,"since, for","Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,-den beri
+bis,until,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,-e kadar
+trotz,despite,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,-e rağmen
+während,during,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,sırasında
+wegen,because of,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,"yüzünden, nedeniyle"
+innerhalb,within,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,içinde (zaman/yer)
+außerhalb,outside of,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,prep,dışında
+nicht,not,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,değil
+kein,"no, not a","Funktionswörter (Artikel, Pronomen, Präpositionen)",,pron,"hiç, hiçbir"
+auch,also,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,"de, da"
+nur,only,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,sadece
+schon,already,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,"zaten, çoktan"
+noch,"still, yet","Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,"hâlâ, henüz"
+sehr,very,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,çok
+ganz,"quite, whole","Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,"oldukça, tamamen"
+immer,always,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,her zaman
+nie,never,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,asla
+oft,often,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,sık sık
+manchmal,sometimes,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,bazen
+hier,here,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,burada
+dort,there,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,orada
+da,"there, since","Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,"orada, çünkü"
+jetzt,now,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,şimdi
+dann,then,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,"sonra, o zaman"
+heute,today,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,bugün
+morgen,tomorrow,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,yarın
+gestern,yesterday,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,dün
+bald,soon,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,yakında
+vielleicht,maybe,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,belki
+wirklich,really,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,gerçekten
+eigentlich,actually,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,aslında
+genau,exactly,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,tam olarak
+besonders,especially,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,özellikle
+ziemlich,"fairly, rather","Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,oldukça
+fast,almost,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,neredeyse
+gerade,"just, right now","Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,"tam şu anda, az önce"
+zusammen,together,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,birlikte
+wieder,again,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,tekrar
+zurück,back,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,geri
+weg,away,"Funktionswörter (Artikel, Pronomen, Präpositionen)",,adv,"uzakta, gitmiş"
+sein,to be,Top-Verben,,v,olmak
+haben,to have,Top-Verben,,v,sahip olmak
+werden,to become,Top-Verben,,v,olmak (değişim)
+können,"can, to be able to",Top-Verben,,v,-ebilmek
+müssen,"must, to have to",Top-Verben,,v,zorunda olmak
+sollen,"should, to be supposed to",Top-Verben,,v,gerekmek (öneri/görev)
+wollen,to want,Top-Verben,,v,istemek
+dürfen,to be allowed to,Top-Verben,,v,izinli olmak
+mögen,to like,Top-Verben,,v,hoşlanmak
+machen,"to make, do",Top-Verben,,v,yapmak
+tun,to do,Top-Verben,,v,yapmak
+gehen,to go,Top-Verben,,v,gitmek
+kommen,to come,Top-Verben,,v,gelmek
+sehen,to see,Top-Verben,,v,görmek
+wissen,to know (fact),Top-Verben,,v,bilmek (bilgi)
+sagen,to say,Top-Verben,,v,söylemek
+geben,to give,Top-Verben,,v,vermek
+nehmen,to take,Top-Verben,,v,almak
+finden,to find,Top-Verben,,v,bulmak
+denken,to think,Top-Verben,,v,düşünmek
+glauben,to believe,Top-Verben,,v,inanmak
+stehen,to stand,Top-Verben,,v,ayakta durmak
+lassen,"to let, leave",Top-Verben,,v,"bırakmak, izin vermek"
+bleiben,to stay,Top-Verben,,v,kalmak
+liegen,"to lie, be located",Top-Verben,,v,"yatmak, bulunmak"
+heißen,to be called,Top-Verben,,v,adı olmak
+sprechen,to speak,Top-Verben,,v,konuşmak
+fragen,to ask,Top-Verben,,v,sormak
+antworten,to answer,Top-Verben,,v,cevap vermek
+brauchen,to need,Top-Verben,,v,ihtiyacı olmak
+arbeiten,to work,Top-Verben,,v,çalışmak
+spielen,to play,Top-Verben,,v,oynamak
+leben,to live,Top-Verben,,v,yaşamak
+wohnen,"to reside, live",Top-Verben,,v,"oturmak, ikamet etmek"
+fühlen,to feel,Top-Verben,,v,hissetmek
+hören,to hear,Top-Verben,,v,duymak
+lesen,to read,Top-Verben,,v,okumak
+schreiben,to write,Top-Verben,,v,yazmak
+lernen,to learn,Top-Verben,,v,öğrenmek
+verstehen,to understand,Top-Verben,,v,anlamak
+kennen,to know (person/thing),Top-Verben,,v,tanımak
+zeigen,to show,Top-Verben,,v,göstermek
+bringen,to bring,Top-Verben,,v,getirmek
+holen,"to fetch, get",Top-Verben,,v,"getirmek, almaya gitmek"
+setzen,"to set, place",Top-Verben,,v,"oturtmak, koymak"
+legen,"to lay, put",Top-Verben,,v,yatay koymak
+stellen,"to put, place",Top-Verben,,v,dikey koymak
+halten,to hold,Top-Verben,,v,tutmak
+laufen,"to run, walk",Top-Verben,,v,"koşmak, yürümek"
+fahren,"to drive, travel",Top-Verben,,v,"sürmek, gitmek (araçla)"
+fliegen,to fly,Top-Verben,,v,uçmak
+reisen,to travel,Top-Verben,,v,seyahat etmek
+ankommen,to arrive,Top-Verben,,v,varmak
+verlassen,to leave (a place),Top-Verben,,v,"terk etmek, ayrılmak"
+öffnen,to open,Top-Verben,,v,açmak
+schließen,to close,Top-Verben,,v,kapatmak
+beginnen,to begin,Top-Verben,,v,başlamak
+anfangen,"to begin, start",Top-Verben,,v,başlamak
+enden,to end,Top-Verben,,v,bitmek
+aufhören,"to stop, cease",Top-Verben,,v,"durmak, bırakmak"
+warten,to wait,Top-Verben,,v,beklemek
+suchen,to look for,Top-Verben,,v,aramak
+kaufen,to buy,Top-Verben,,v,satın almak
+verkaufen,to sell,Top-Verben,,v,satmak
+bezahlen,to pay,Top-Verben,,v,ödemek
+kosten,to cost,Top-Verben,,v,mal olmak
+essen,to eat,Top-Verben,,v,yemek
+trinken,to drink,Top-Verben,,v,içmek
+kochen,to cook,Top-Verben,,v,pişirmek
+schlafen,to sleep,Top-Verben,,v,uyumak
+aufwachen,to wake up,Top-Verben,,v,uyanmak
+aufstehen,to get up,Top-Verben,,v,kalkmak
+sitzen,to sit,Top-Verben,,v,oturmak
+treffen,to meet,Top-Verben,,v,buluşmak
+besuchen,to visit,Top-Verben,,v,ziyaret etmek
+erzählen,"to tell, narrate",Top-Verben,,v,anlatmak
+erklären,to explain,Top-Verben,,v,açıklamak
+helfen,to help,Top-Verben,,v,yardım etmek
+danken,to thank,Top-Verben,,v,teşekkür etmek
+lieben,to love,Top-Verben,,v,sevmek
+mögen (gern),to like,Top-Verben,,v,hoşlanmak
+hassen,to hate,Top-Verben,,v,nefret etmek
+lachen,to laugh,Top-Verben,,v,gülmek
+weinen,to cry,Top-Verben,,v,ağlamak
+lächeln,to smile,Top-Verben,,v,gülümsemek
+freuen (sich),to be glad,Top-Verben,,v,sevinmek
+ärgern (sich),to be annoyed,Top-Verben,,v,sinirlenmek
+entschuldigen (sich),to apologize,Top-Verben,,v,özür dilemek
+vergessen,to forget,Top-Verben,,v,unutmak
+erinnern (sich),to remember,Top-Verben,,v,hatırlamak
+benutzen,to use,Top-Verben,,v,kullanmak
+verwenden,"to use, employ",Top-Verben,,v,kullanmak
+brauchen,to need,Top-Verben,,v,ihtiyacı olmak
+ändern,to change,Top-Verben,,v,değiştirmek
+wechseln,"to change, switch",Top-Verben,,v,değiştirmek (yer/durum)
+bauen,to build,Top-Verben,,v,inşa etmek
+zerstören,to destroy,Top-Verben,,v,"yıkmak, yok etmek"
+reparieren,to repair,Top-Verben,,v,tamir etmek
+schaffen,"to manage, create",Top-Verben,,v,"başarmak, yaratmak"
+versuchen,to try,Top-Verben,,v,denemek
+gelingen,to succeed,Top-Verben,,v,başarılı olmak
+schaffen es,to manage to,Top-Verben,,v,başarmak
+entscheiden,to decide,Top-Verben,,v,karar vermek
+wählen,"to choose, vote",Top-Verben,,v,"seçmek, oy vermek"
+planen,to plan,Top-Verben,,v,planlamak
+organisieren,to organize,Top-Verben,,v,organize etmek
+vorbereiten,to prepare,Top-Verben,,v,hazırlamak
+erwarten,to expect,Top-Verben,,v,beklemek
+hoffen,to hope,Top-Verben,,v,ummak
+wünschen,to wish,Top-Verben,,v,dilemek
+brauchen,to need,Top-Verben,,v,ihtiyacı olmak
+verlieren,to lose,Top-Verben,,v,kaybetmek
+gewinnen,to win,Top-Verben,,v,kazanmak
+verlieren (sich),to get lost,Top-Verben,,v,kaybolmak
+verstecken (sich),to hide,Top-Verben,,v,saklanmak
+zeigen,to show,Top-Verben,,v,göstermek
+entdecken,to discover,Top-Verben,,v,keşfetmek
+erfinden,to invent,Top-Verben,,v,icat etmek
+untersuchen,to investigate,Top-Verben,,v,incelemek
+prüfen,"to check, test",Top-Verben,,v,"kontrol etmek, test etmek"
+kontrollieren,"to control, check",Top-Verben,,v,kontrol etmek
+messen,to measure,Top-Verben,,v,ölçmek
+zählen,to count,Top-Verben,,v,saymak
+rechnen,to calculate,Top-Verben,,v,hesaplamak
+schätzen,"to estimate, value",Top-Verben,,v,"tahmin etmek, değer vermek"
+vergleichen,to compare,Top-Verben,,v,karşılaştırmak
+unterscheiden,to distinguish,Top-Verben,,v,ayırt etmek
+trennen,to separate,Top-Verben,,v,ayırmak
+verbinden,to connect,Top-Verben,,v,bağlamak
+mischen,to mix,Top-Verben,,v,karıştırmak
+teilen,"to share, divide",Top-Verben,,v,"paylaşmak, bölmek"
+sammeln,to collect,Top-Verben,,v,toplamak
+wiederholen,to repeat,Top-Verben,,v,tekrarlamak
+üben,to practice,Top-Verben,,v,alıştırma yapmak
+trainieren,to train,Top-Verben,,v,antrenman yapmak
+verbessern,to improve,Top-Verben,,v,"geliştirmek, iyileştirmek"
+verschlechtern (sich),to worsen,Top-Verben,,v,kötüleşmek
+wachsen,to grow,Top-Verben,,v,büyümek
+sinken,"to sink, decrease",Top-Verben,,v,"azalmak, batmak"
+steigen,"to rise, climb",Top-Verben,,v,"yükselmek, tırmanmak"
+fallen,to fall,Top-Verben,,v,düşmek
+springen,to jump,Top-Verben,,v,zıplamak
+tanzen,to dance,Top-Verben,,v,dans etmek
+singen,to sing,Top-Verben,,v,şarkı söylemek
+malen,to paint,Top-Verben,,v,resim yapmak (boya ile)
+zeichnen,to draw,Top-Verben,,v,çizmek
+fotografieren,to photograph,Top-Verben,,v,fotoğraflamak
+filmen,to film,Top-Verben,,v,film çekmek
+drehen,"to turn, shoot (film)",Top-Verben,,v,"döndürmek, çekim yapmak"
+rollen,to roll,Top-Verben,,v,yuvarlanmak
+ziehen,to pull,Top-Verben,,v,çekmek
+schieben,to push,Top-Verben,,v,itmek
+drücken,to press,Top-Verben,,v,"basmak, sıkmak"
+werfen,to throw,Top-Verben,,v,atmak
+fangen,to catch,Top-Verben,,v,yakalamak
+tragen,"to carry, wear",Top-Verben,,v,"taşımak, giymek"
+heben,to lift,Top-Verben,,v,kaldırmak
+senken,to lower,Top-Verben,,v,"alçaltmak, düşürmek"
+packen,"to pack, grab",Top-Verben,,v,"paketlemek, kavramak"
+räumen,"to clear, tidy",Top-Verben,,v,"toplamak, düzenlemek"
+putzen,to clean,Top-Verben,,v,temizlemek
+waschen,to wash,Top-Verben,,v,yıkamak
+trocknen,to dry,Top-Verben,,v,kurutmak
+reinigen,to clean,Top-Verben,,v,temizlemek
+aufräumen,to tidy up,Top-Verben,,v,toparlamak
+reparieren,"to fix, repair",Top-Verben,,v,tamir etmek
+bauen,to build,Top-Verben,,v,inşa etmek
+renovieren,to renovate,Top-Verben,,v,tadilat yapmak
+anziehen (sich),to get dressed,Top-Verben,,v,giyinmek
+ausziehen (sich),to undress,Top-Verben,,v,soyunmak
+duschen,to shower,Top-Verben,,v,duş almak
+baden,to bathe,Top-Verben,,v,banyo yapmak
+rasieren (sich),to shave,Top-Verben,,v,tıraş olmak
+kämmen (sich),to comb,Top-Verben,,v,saçını taramak
+schminken (sich),to put on makeup,Top-Verben,,v,makyaj yapmak
+krank sein,to be sick,Top-Verben,,v,hasta olmak
+heilen,to heal,Top-Verben,,v,iyileştirmek
+operieren,to operate,Top-Verben,,v,ameliyat etmek
+verletzen (sich),to injure,Top-Verben,,v,yaralanmak
+schmerzen,to hurt,Top-Verben,,v,ağrımak
+husten,to cough,Top-Verben,,v,öksürmek
+niesen,to sneeze,Top-Verben,,v,hapşırmak
+atmen,to breathe,Top-Verben,,v,nefes almak
+sterben,to die,Top-Verben,,v,ölmek
+geboren werden,to be born,Top-Verben,,v,doğmak
+heiraten,to marry,Top-Verben,,v,evlenmek
+scheiden lassen (sich),to get divorced,Top-Verben,,v,boşanmak
+kennenlernen,to get to know,Top-Verben,,v,tanışmak
+verlieben (sich),to fall in love,Top-Verben,,v,aşık olmak
+küssen,to kiss,Top-Verben,,v,öpmek
+umarmen,to hug,Top-Verben,,v,sarılmak
+streiten,to argue,Top-Verben,,v,"tartışmak, kavga etmek"
+vertragen (sich),to get along,Top-Verben,,v,"anlaşmak, iyi geçinmek"
+versöhnen (sich),to reconcile,Top-Verben,,v,barışmak
+lügen,to lie,Top-Verben,,v,yalan söylemek
+betrügen,"to deceive, cheat",Top-Verben,,v,"aldatmak, hile yapmak"
+stehlen,to steal,Top-Verben,,v,çalmak
+verstecken,to hide (something),Top-Verben,,v,saklamak (bir şeyi)
+retten,"to save, rescue",Top-Verben,,v,kurtarmak
+schützen,to protect,Top-Verben,,v,korumak
+warnen,to warn,Top-Verben,,v,uyarmak
+erschrecken,"to scare, startle",Top-Verben,,v,"korkutmak, irkilmek"
+fürchten (sich),to fear,Top-Verben,,v,korkmak
+vertrauen,to trust,Top-Verben,,v,güvenmek
+zweifeln,to doubt,Top-Verben,,v,şüphe etmek
+erlauben,to allow,Top-Verben,,v,izin vermek
+verbieten,to forbid,Top-Verben,,v,yasaklamak
+zwingen,to force,Top-Verben,,v,zorlamak
+überzeugen,to convince,Top-Verben,,v,ikna etmek
+vorschlagen,to suggest,Top-Verben,,v,önermek
+empfehlen,to recommend,Top-Verben,,v,tavsiye etmek
+raten,"to advise, guess",Top-Verben,,v,"tavsiye etmek, tahmin etmek"
+warnen,to warn,Top-Verben,,v,uyarmak
+informieren,to inform,Top-Verben,,v,bilgilendirmek
+mitteilen,"to inform, notify",Top-Verben,,v,bildirmek
+melden (sich),"to report, get in touch",Top-Verben,,v,"haber vermek, bildirmek"
+anrufen,to call (phone),Top-Verben,,v,telefon etmek
+telefonieren,to telephone,Top-Verben,,v,telefonla görüşmek
+schicken,to send,Top-Verben,,v,göndermek
+senden,"to send, broadcast",Top-Verben,,v,"göndermek, yayınlamak"
+empfangen,to receive,Top-Verben,,v,"karşılamak, almak"
+erhalten,"to receive, get",Top-Verben,,v,"almak, elde etmek"
+bekommen,"to get, receive",Top-Verben,,v,"almak, elde etmek"
+liefern,to deliver,Top-Verben,,v,teslim etmek
+bestellen,to order,Top-Verben,,v,sipariş etmek
+buchen,to book,Top-Verben,,v,rezervasyon yapmak (bilet vb.)
+reservieren,to reserve,Top-Verben,,v,rezerve etmek
+mieten,to rent,Top-Verben,,v,kiralamak
+vermieten,to rent out,Top-Verben,,v,kiraya vermek
+besitzen,to own,Top-Verben,,v,sahip olmak
+gehören,to belong to,Top-Verben,,v,ait olmak
+verdienen,to earn,Top-Verben,,v,kazanmak (para)
+sparen,to save (money),Top-Verben,,v,biriktirmek (para)
+ausgeben,to spend (money),Top-Verben,,v,harcamak (para)
+investieren,to invest,Top-Verben,,v,yatırım yapmak
+leihen,"to lend, borrow",Top-Verben,,v,ödünç vermek/almak
+schulden,to owe,Top-Verben,,v,borçlu olmak
+zahlen,to pay,Top-Verben,,v,ödemek
+der Mensch,"human, person",Top-Nomen: Menschen & Beziehungen,,n,insan
+die Person,person,Top-Nomen: Menschen & Beziehungen,,n,kişi
+der Mann,man,Top-Nomen: Menschen & Beziehungen,,n,"adam, erkek"
+die Frau,"woman, wife",Top-Nomen: Menschen & Beziehungen,,n,"kadın, eş"
+das Kind,child,Top-Nomen: Menschen & Beziehungen,,n,çocuk
+der Junge,boy,Top-Nomen: Menschen & Beziehungen,,n,erkek çocuk
+das Mädchen,girl,Top-Nomen: Menschen & Beziehungen,,n,kız çocuk
+der Freund,friend (m.),Top-Nomen: Menschen & Beziehungen,,n,erkek arkadaş
+die Freundin,friend (f.),Top-Nomen: Menschen & Beziehungen,,n,kız arkadaş
+die Familie,family,Top-Nomen: Menschen & Beziehungen,,n,aile
+die Mutter,mother,Top-Nomen: Menschen & Beziehungen,,n,anne
+der Vater,father,Top-Nomen: Menschen & Beziehungen,,n,baba
+die Eltern,parents,Top-Nomen: Menschen & Beziehungen,,n,ebeveynler
+der Bruder,brother,Top-Nomen: Menschen & Beziehungen,,n,erkek kardeş
+die Schwester,sister,Top-Nomen: Menschen & Beziehungen,,n,kız kardeş
+der Sohn,son,Top-Nomen: Menschen & Beziehungen,,n,oğul
+die Tochter,daughter,Top-Nomen: Menschen & Beziehungen,,n,kız evlat
+die Großmutter,grandmother,Top-Nomen: Menschen & Beziehungen,,n,büyükanne
+der Großvater,grandfather,Top-Nomen: Menschen & Beziehungen,,n,büyükbaba
+der Onkel,uncle,Top-Nomen: Menschen & Beziehungen,,n,"amca, dayı"
+die Tante,aunt,Top-Nomen: Menschen & Beziehungen,,n,"teyze, hala"
+der Cousin,cousin (m.),Top-Nomen: Menschen & Beziehungen,,n,kuzen (erkek)
+die Kusine,cousin (f.),Top-Nomen: Menschen & Beziehungen,,n,kuzen (kız)
+der Nachbar,neighbor (m.),Top-Nomen: Menschen & Beziehungen,,n,komşu (erkek)
+die Nachbarin,neighbor (f.),Top-Nomen: Menschen & Beziehungen,,n,komşu (kadın)
+der Kollege,colleague (m.),Top-Nomen: Menschen & Beziehungen,,n,meslektaş (erkek)
+die Kollegin,colleague (f.),Top-Nomen: Menschen & Beziehungen,,n,meslektaş (kadın)
+der Chef,boss (m.),Top-Nomen: Menschen & Beziehungen,,n,patron (erkek)
+die Chefin,boss (f.),Top-Nomen: Menschen & Beziehungen,,n,patron (kadın)
+der Lehrer,teacher (m.),Top-Nomen: Menschen & Beziehungen,,n,öğretmen (erkek)
+die Lehrerin,teacher (f.),Top-Nomen: Menschen & Beziehungen,,n,öğretmen (kadın)
+der Schüler,pupil (m.),Top-Nomen: Menschen & Beziehungen,,n,"öğrenci (erkek, okul)"
+die Schülerin,pupil (f.),Top-Nomen: Menschen & Beziehungen,,n,"öğrenci (kız, okul)"
+der Student,student (m.),Top-Nomen: Menschen & Beziehungen,,n,üniversite öğrencisi (erkek)
+die Studentin,student (f.),Top-Nomen: Menschen & Beziehungen,,n,üniversite öğrencisi (kız)
+der Arzt,doctor (m.),Top-Nomen: Menschen & Beziehungen,,n,doktor (erkek)
+die Ärztin,doctor (f.),Top-Nomen: Menschen & Beziehungen,,n,doktor (kadın)
+der Patient,patient (m.),Top-Nomen: Menschen & Beziehungen,,n,hasta (erkek)
+die Patientin,patient (f.),Top-Nomen: Menschen & Beziehungen,,n,hasta (kadın)
+das Paar,couple,Top-Nomen: Menschen & Beziehungen,,n,çift
+die Ehe,marriage,Top-Nomen: Menschen & Beziehungen,,n,evlilik
+der Ehemann,husband,Top-Nomen: Menschen & Beziehungen,,n,koca
+die Ehefrau,wife,Top-Nomen: Menschen & Beziehungen,,n,eş (kadın)
+der Name,name,Top-Nomen: Menschen & Beziehungen,,n,isim
+das Alter,age,Top-Nomen: Menschen & Beziehungen,,n,yaş
+die Jugend,youth,Top-Nomen: Menschen & Beziehungen,,n,gençlik
+das Leben,life,Top-Nomen: Menschen & Beziehungen,,n,hayat
+der Tod,death,Top-Nomen: Menschen & Beziehungen,,n,ölüm
+die Geburt,birth,Top-Nomen: Menschen & Beziehungen,,n,doğum
+die Gesundheit,health,Top-Nomen: Menschen & Beziehungen,,n,sağlık
+die Krankheit,illness,Top-Nomen: Menschen & Beziehungen,,n,hastalık
+der Charakter,character,Top-Nomen: Menschen & Beziehungen,,n,karakter
+die Persönlichkeit,personality,Top-Nomen: Menschen & Beziehungen,,n,kişilik
+das Haus,house,Top-Nomen: Zuhause & Alltag,,n,ev
+die Wohnung,apartment,Top-Nomen: Zuhause & Alltag,,n,daire
+das Zimmer,room,Top-Nomen: Zuhause & Alltag,,n,oda
+die Tür,door,Top-Nomen: Zuhause & Alltag,,n,kapı
+das Fenster,window,Top-Nomen: Zuhause & Alltag,,n,pencere
+der Tisch,table,Top-Nomen: Zuhause & Alltag,,n,masa
+der Stuhl,chair,Top-Nomen: Zuhause & Alltag,,n,sandalye
+das Bett,bed,Top-Nomen: Zuhause & Alltag,,n,yatak
+der Schrank,"closet, cupboard",Top-Nomen: Zuhause & Alltag,,n,dolap
+die Küche,kitchen,Top-Nomen: Zuhause & Alltag,,n,mutfak
+das Bad,bathroom,Top-Nomen: Zuhause & Alltag,,n,banyo
+der Garten,garden,Top-Nomen: Zuhause & Alltag,,n,bahçe
+die Straße,street,Top-Nomen: Zuhause & Alltag,,n,"sokak, cadde"
+die Stadt,city,Top-Nomen: Zuhause & Alltag,,n,şehir
+das Dorf,village,Top-Nomen: Zuhause & Alltag,,n,köy
+das Land,"country, land",Top-Nomen: Zuhause & Alltag,,n,"ülke, kara"
+die Welt,world,Top-Nomen: Zuhause & Alltag,,n,dünya
+der Ort,place,Top-Nomen: Zuhause & Alltag,,n,yer
+der Platz,"square, space, seat",Top-Nomen: Zuhause & Alltag,,n,"meydan, yer, koltuk"
+der Weg,"way, path",Top-Nomen: Zuhause & Alltag,,n,yol
+die Richtung,direction,Top-Nomen: Zuhause & Alltag,,n,yön
+die Adresse,address,Top-Nomen: Zuhause & Alltag,,n,adres
+der Schlüssel,key,Top-Nomen: Zuhause & Alltag,,n,anahtar
+das Licht,light,Top-Nomen: Zuhause & Alltag,,n,ışık
+die Tasche,"bag, pocket",Top-Nomen: Zuhause & Alltag,,n,"çanta, cep"
+der Koffer,suitcase,Top-Nomen: Zuhause & Alltag,,n,bavul
+das Geld,money,Top-Nomen: Zuhause & Alltag,,n,para
+die Zeit,time,Top-Nomen: Zuhause & Alltag,,n,zaman
+der Tag,day,Top-Nomen: Zuhause & Alltag,,n,gün
+die Woche,week,Top-Nomen: Zuhause & Alltag,,n,hafta
+der Monat,month,Top-Nomen: Zuhause & Alltag,,n,ay
+das Jahr,year,Top-Nomen: Zuhause & Alltag,,n,yıl
+die Stunde,hour,Top-Nomen: Zuhause & Alltag,,n,saat (süre)
+die Minute,minute,Top-Nomen: Zuhause & Alltag,,n,dakika
+die Sekunde,second,Top-Nomen: Zuhause & Alltag,,n,saniye
+der Morgen,morning,Top-Nomen: Zuhause & Alltag,,n,sabah
+der Abend,evening,Top-Nomen: Zuhause & Alltag,,n,akşam
+die Nacht,night,Top-Nomen: Zuhause & Alltag,,n,gece
+der Mittag,noon,Top-Nomen: Zuhause & Alltag,,n,öğlen
+das Wochenende,weekend,Top-Nomen: Zuhause & Alltag,,n,hafta sonu
+der Urlaub,vacation,Top-Nomen: Zuhause & Alltag,,n,tatil (izin)
+die Ferien,school holidays,Top-Nomen: Zuhause & Alltag,,n,okul tatili
+die Arbeit,work,Top-Nomen: Zuhause & Alltag,,n,iş
+der Beruf,profession,Top-Nomen: Zuhause & Alltag,,n,meslek
+die Firma,company,Top-Nomen: Zuhause & Alltag,,n,şirket
+das Büro,office,Top-Nomen: Zuhause & Alltag,,n,ofis
+die Schule,school,Top-Nomen: Zuhause & Alltag,,n,okul
+die Universität,university,Top-Nomen: Zuhause & Alltag,,n,üniversite
+der Unterricht,"class, lesson",Top-Nomen: Zuhause & Alltag,,n,ders
+die Prüfung,exam,Top-Nomen: Zuhause & Alltag,,n,sınav
+die Aufgabe,"task, exercise",Top-Nomen: Zuhause & Alltag,,n,"görev, alıştırma"
+das Problem,problem,Top-Nomen: Zuhause & Alltag,,n,sorun
+die Lösung,solution,Top-Nomen: Zuhause & Alltag,,n,çözüm
+die Idee,idea,Top-Nomen: Zuhause & Alltag,,n,fikir
+der Plan,plan,Top-Nomen: Zuhause & Alltag,,n,plan
+das Ziel,goal,Top-Nomen: Zuhause & Alltag,,n,hedef
+der Erfolg,success,Top-Nomen: Zuhause & Alltag,,n,başarı
+der Fehler,mistake,Top-Nomen: Zuhause & Alltag,,n,hata
+die Frage,question,Top-Nomen: Zuhause & Alltag,,n,soru
+die Antwort,answer,Top-Nomen: Zuhause & Alltag,,n,cevap
+der Grund,reason,Top-Nomen: Zuhause & Alltag,,n,sebep
+das Beispiel,example,Top-Nomen: Zuhause & Alltag,,n,örnek
+die Information,information,Top-Nomen: Zuhause & Alltag,,n,bilgi
+die Nachricht,"news, message",Top-Nomen: Zuhause & Alltag,,n,"haber, mesaj"
+der Brief,letter,Top-Nomen: Zuhause & Alltag,,n,mektup
+das Telefon,telephone,Top-Nomen: Zuhause & Alltag,,n,telefon
+der Computer,computer,Top-Nomen: Zuhause & Alltag,,n,bilgisayar
+das Internet,internet,Top-Nomen: Zuhause & Alltag,,n,internet
+die E-Mail,email,Top-Nomen: Zuhause & Alltag,,n,e-posta
+die Website,website,Top-Nomen: Zuhause & Alltag,,n,web sitesi
+das Foto,photo,Top-Nomen: Zuhause & Alltag,,n,fotoğraf
+das Bild,"picture, image",Top-Nomen: Zuhause & Alltag,,n,"resim, görüntü"
+die Musik,music,Top-Nomen: Zuhause & Alltag,,n,müzik
+der Film,movie,Top-Nomen: Zuhause & Alltag,,n,film
+das Buch,book,Top-Nomen: Zuhause & Alltag,,n,kitap
+die Zeitung,newspaper,Top-Nomen: Zuhause & Alltag,,n,gazete
+der Artikel,article,Top-Nomen: Zuhause & Alltag,,n,makale
+die Geschichte,"story, history",Top-Nomen: Zuhause & Alltag,,n,"hikaye, tarih"
+die Sprache,language,Top-Nomen: Zuhause & Alltag,,n,dil
+das Wort,word,Top-Nomen: Zuhause & Alltag,,n,kelime
+der Satz,sentence,Top-Nomen: Zuhause & Alltag,,n,cümle
+die Bedeutung,meaning,Top-Nomen: Zuhause & Alltag,,n,anlam
+das Essen,"food, meal",Top-Nomen: Essen & Trinken,,n,yemek
+das Frühstück,breakfast,Top-Nomen: Essen & Trinken,,n,kahvaltı
+das Mittagessen,lunch,Top-Nomen: Essen & Trinken,,n,öğle yemeği
+das Abendessen,dinner,Top-Nomen: Essen & Trinken,,n,akşam yemeği
+das Brot,bread,Top-Nomen: Essen & Trinken,,n,ekmek
+die Butter,butter,Top-Nomen: Essen & Trinken,,n,tereyağı
+der Käse,cheese,Top-Nomen: Essen & Trinken,,n,peynir
+das Ei,egg,Top-Nomen: Essen & Trinken,,n,yumurta
+die Milch,milk,Top-Nomen: Essen & Trinken,,n,süt
+der Zucker,sugar,Top-Nomen: Essen & Trinken,,n,şeker
+das Salz,salt,Top-Nomen: Essen & Trinken,,n,tuz
+der Pfeffer,pepper,Top-Nomen: Essen & Trinken,,n,karabiber
+das Fleisch,meat,Top-Nomen: Essen & Trinken,,n,et
+der Fisch,fish,Top-Nomen: Essen & Trinken,,n,balık
+das Gemüse,vegetables,Top-Nomen: Essen & Trinken,,n,sebze
+das Obst,fruit,Top-Nomen: Essen & Trinken,,n,meyve
+der Apfel,apple,Top-Nomen: Essen & Trinken,,n,elma
+die Banane,banana,Top-Nomen: Essen & Trinken,,n,muz
+die Kartoffel,potato,Top-Nomen: Essen & Trinken,,n,patates
+die Tomate,tomato,Top-Nomen: Essen & Trinken,,n,domates
+der Reis,rice,Top-Nomen: Essen & Trinken,,n,pirinç
+die Nudel,"noodle, pasta",Top-Nomen: Essen & Trinken,,n,"makarna, erişte"
+die Suppe,soup,Top-Nomen: Essen & Trinken,,n,çorba
+der Salat,salad,Top-Nomen: Essen & Trinken,,n,salata
+der Kuchen,cake,Top-Nomen: Essen & Trinken,,n,"pasta, kek"
+die Schokolade,chocolate,Top-Nomen: Essen & Trinken,,n,çikolata
+das Wasser,water,Top-Nomen: Essen & Trinken,,n,su
+der Saft,juice,Top-Nomen: Essen & Trinken,,n,meyve suyu
+der Kaffee,coffee,Top-Nomen: Essen & Trinken,,n,kahve
+der Tee,tea,Top-Nomen: Essen & Trinken,,n,çay
+das Bier,beer,Top-Nomen: Essen & Trinken,,n,bira
+der Wein,wine,Top-Nomen: Essen & Trinken,,n,şarap
+das Restaurant,restaurant,Top-Nomen: Essen & Trinken,,n,restoran
+das Café,café,Top-Nomen: Essen & Trinken,,n,kafe
+die Speisekarte,menu,Top-Nomen: Essen & Trinken,,n,menü
+die Rechnung,bill,Top-Nomen: Essen & Trinken,,n,hesap
+das Trinkgeld,tip,Top-Nomen: Essen & Trinken,,n,bahşiş
+der Teller,plate,Top-Nomen: Essen & Trinken,,n,tabak
+die Tasse,cup,Top-Nomen: Essen & Trinken,,n,fincan
+das Glas,glass,Top-Nomen: Essen & Trinken,,n,bardak
+die Gabel,fork,Top-Nomen: Essen & Trinken,,n,çatal
+das Messer,knife,Top-Nomen: Essen & Trinken,,n,bıçak
+der Löffel,spoon,Top-Nomen: Essen & Trinken,,n,kaşık
+der Kopf,head,Top-Nomen: Körper & Gesundheit,,n,baş
+das Gesicht,face,Top-Nomen: Körper & Gesundheit,,n,yüz
+das Auge,eye,Top-Nomen: Körper & Gesundheit,,n,göz
+die Nase,nose,Top-Nomen: Körper & Gesundheit,,n,burun
+der Mund,mouth,Top-Nomen: Körper & Gesundheit,,n,ağız
+das Ohr,ear,Top-Nomen: Körper & Gesundheit,,n,kulak
+das Haar,hair,Top-Nomen: Körper & Gesundheit,,n,saç
+der Hals,"neck, throat",Top-Nomen: Körper & Gesundheit,,n,"boyun, boğaz"
+die Schulter,shoulder,Top-Nomen: Körper & Gesundheit,,n,omuz
+der Arm,arm,Top-Nomen: Körper & Gesundheit,,n,kol
+die Hand,hand,Top-Nomen: Körper & Gesundheit,,n,el
+der Finger,finger,Top-Nomen: Körper & Gesundheit,,n,parmak
+das Bein,leg,Top-Nomen: Körper & Gesundheit,,n,bacak
+der Fuß,foot,Top-Nomen: Körper & Gesundheit,,n,ayak
+der Rücken,back,Top-Nomen: Körper & Gesundheit,,n,sırt
+der Bauch,"stomach, belly",Top-Nomen: Körper & Gesundheit,,n,karın
+das Herz,heart,Top-Nomen: Körper & Gesundheit,,n,kalp
+das Blut,blood,Top-Nomen: Körper & Gesundheit,,n,kan
+die Haut,skin,Top-Nomen: Körper & Gesundheit,,n,deri
+der Knochen,bone,Top-Nomen: Körper & Gesundheit,,n,kemik
+der Schmerz,pain,Top-Nomen: Körper & Gesundheit,,n,ağrı
+das Fieber,fever,Top-Nomen: Körper & Gesundheit,,n,ateş (hastalık)
+die Erkältung,cold (illness),Top-Nomen: Körper & Gesundheit,,n,soğuk algınlığı
+der Husten,cough,Top-Nomen: Körper & Gesundheit,,n,öksürük
+die Verletzung,injury,Top-Nomen: Körper & Gesundheit,,n,yaralanma
+die Medizin,medicine,Top-Nomen: Körper & Gesundheit,,n,"ilaç, tıp"
+die Tablette,pill,Top-Nomen: Körper & Gesundheit,,n,hap
+das Krankenhaus,hospital,Top-Nomen: Körper & Gesundheit,,n,hastane
+die Apotheke,pharmacy,Top-Nomen: Körper & Gesundheit,,n,eczane
+der Termin,appointment,Top-Nomen: Körper & Gesundheit,,n,randevu
+die Behandlung,treatment,Top-Nomen: Körper & Gesundheit,,n,tedavi
+die Versicherung,insurance,Top-Nomen: Körper & Gesundheit,,n,sigorta
+das Auto,car,Top-Nomen: Verkehr & Reisen,,n,araba
+der Bus,bus,Top-Nomen: Verkehr & Reisen,,n,otobüs
+der Zug,train,Top-Nomen: Verkehr & Reisen,,n,tren
+die Bahn,"railway, train",Top-Nomen: Verkehr & Reisen,,n,"demiryolu, tren"
+das Flugzeug,airplane,Top-Nomen: Verkehr & Reisen,,n,uçak
+das Fahrrad,bicycle,Top-Nomen: Verkehr & Reisen,,n,bisiklet
+das Schiff,ship,Top-Nomen: Verkehr & Reisen,,n,gemi
+der Bahnhof,train station,Top-Nomen: Verkehr & Reisen,,n,tren istasyonu
+der Flughafen,airport,Top-Nomen: Verkehr & Reisen,,n,havalimanı
+die Haltestelle,(bus/tram) stop,Top-Nomen: Verkehr & Reisen,,n,durak
+das Ticket,ticket,Top-Nomen: Verkehr & Reisen,,n,bilet
+die Fahrkarte,ticket (transport),Top-Nomen: Verkehr & Reisen,,n,bilet (ulaşım)
+der Fahrplan,timetable,Top-Nomen: Verkehr & Reisen,,n,sefer tarifesi
+die Verspätung,delay,Top-Nomen: Verkehr & Reisen,,n,gecikme
+die Ankunft,arrival,Top-Nomen: Verkehr & Reisen,,n,varış
+die Abfahrt,departure,Top-Nomen: Verkehr & Reisen,,n,kalkış
+die Strecke,"route, distance",Top-Nomen: Verkehr & Reisen,,n,"güzergah, mesafe"
+die Geschwindigkeit,speed,Top-Nomen: Verkehr & Reisen,,n,hız
+die Kreuzung,intersection,Top-Nomen: Verkehr & Reisen,,n,kavşak
+die Ampel,traffic light,Top-Nomen: Verkehr & Reisen,,n,trafik ışığı
+der Parkplatz,parking lot,Top-Nomen: Verkehr & Reisen,,n,otopark
+die Reise,"trip, journey",Top-Nomen: Verkehr & Reisen,,n,yolculuk
+der Tourist,tourist (m.),Top-Nomen: Verkehr & Reisen,,n,turist
+das Hotel,hotel,Top-Nomen: Verkehr & Reisen,,n,otel
+die Grenze,border,Top-Nomen: Verkehr & Reisen,,n,sınır
+der Pass,passport,Top-Nomen: Verkehr & Reisen,,n,pasaport
+das Gepäck,luggage,Top-Nomen: Verkehr & Reisen,,n,bagaj
+das Wetter,weather,Top-Nomen: Natur & Wetter,,n,hava durumu
+die Sonne,sun,Top-Nomen: Natur & Wetter,,n,güneş
+der Regen,rain,Top-Nomen: Natur & Wetter,,n,yağmur
+der Schnee,snow,Top-Nomen: Natur & Wetter,,n,kar
+der Wind,wind,Top-Nomen: Natur & Wetter,,n,rüzgar
+die Wolke,cloud,Top-Nomen: Natur & Wetter,,n,bulut
+der Himmel,sky,Top-Nomen: Natur & Wetter,,n,gökyüzü
+die Temperatur,temperature,Top-Nomen: Natur & Wetter,,n,sıcaklık
+die Kälte,cold,Top-Nomen: Natur & Wetter,,n,soğuk
+die Hitze,heat,Top-Nomen: Natur & Wetter,,n,sıcaklık (yüksek)
+der Berg,mountain,Top-Nomen: Natur & Wetter,,n,dağ
+der Wald,forest,Top-Nomen: Natur & Wetter,,n,orman
+der Fluss,river,Top-Nomen: Natur & Wetter,,n,nehir
+der See,lake,Top-Nomen: Natur & Wetter,,n,göl
+das Meer,sea,Top-Nomen: Natur & Wetter,,n,deniz
+die Insel,island,Top-Nomen: Natur & Wetter,,n,ada
+der Strand,beach,Top-Nomen: Natur & Wetter,,n,plaj
+der Baum,tree,Top-Nomen: Natur & Wetter,,n,ağaç
+die Blume,flower,Top-Nomen: Natur & Wetter,,n,çiçek
+das Gras,grass,Top-Nomen: Natur & Wetter,,n,çim
+das Tier,animal,Top-Nomen: Natur & Wetter,,n,hayvan
+der Hund,dog,Top-Nomen: Natur & Wetter,,n,köpek
+die Katze,cat,Top-Nomen: Natur & Wetter,,n,kedi
+der Vogel,bird,Top-Nomen: Natur & Wetter,,n,kuş
+der Frühling,spring,Top-Nomen: Natur & Wetter,,n,ilkbahar
+der Sommer,summer,Top-Nomen: Natur & Wetter,,n,yaz
+der Herbst,autumn,Top-Nomen: Natur & Wetter,,n,sonbahar
+der Winter,winter,Top-Nomen: Natur & Wetter,,n,kış
+die Umwelt,environment,Top-Nomen: Natur & Wetter,,n,çevre
+die Natur,nature,Top-Nomen: Natur & Wetter,,n,doğa
+die Gesellschaft,society,Top-Nomen: Gesellschaft & Abstraktes,,n,toplum
+die Regierung,government,Top-Nomen: Gesellschaft & Abstraktes,,n,hükümet
+der Staat,state,Top-Nomen: Gesellschaft & Abstraktes,,n,devlet
+das Gesetz,law,Top-Nomen: Gesellschaft & Abstraktes,,n,kanun
+das Recht,"right, law",Top-Nomen: Gesellschaft & Abstraktes,,n,"hak, hukuk"
+die Pflicht,"duty, obligation",Top-Nomen: Gesellschaft & Abstraktes,,n,"görev, yükümlülük"
+die Politik,politics,Top-Nomen: Gesellschaft & Abstraktes,,n,siyaset
+die Wirtschaft,economy,Top-Nomen: Gesellschaft & Abstraktes,,n,ekonomi
+der Markt,market,Top-Nomen: Gesellschaft & Abstraktes,,n,pazar
+die Steuer,tax,Top-Nomen: Gesellschaft & Abstraktes,,n,vergi
+der Krieg,war,Top-Nomen: Gesellschaft & Abstraktes,,n,savaş
+der Frieden,peace,Top-Nomen: Gesellschaft & Abstraktes,,n,barış
+die Religion,religion,Top-Nomen: Gesellschaft & Abstraktes,,n,din
+die Kultur,culture,Top-Nomen: Gesellschaft & Abstraktes,,n,kültür
+die Kunst,art,Top-Nomen: Gesellschaft & Abstraktes,,n,sanat
+die Wissenschaft,science,Top-Nomen: Gesellschaft & Abstraktes,,n,bilim
+die Technik,technology,Top-Nomen: Gesellschaft & Abstraktes,,n,teknoloji
+die Entwicklung,development,Top-Nomen: Gesellschaft & Abstraktes,,n,gelişim
+die Zukunft,future,Top-Nomen: Gesellschaft & Abstraktes,,n,gelecek
+die Vergangenheit,past,Top-Nomen: Gesellschaft & Abstraktes,,n,geçmiş
+die Gegenwart,present,Top-Nomen: Gesellschaft & Abstraktes,,n,şimdiki zaman
+die Wahrheit,truth,Top-Nomen: Gesellschaft & Abstraktes,,n,"gerçek, doğruluk"
+die Lüge,lie,Top-Nomen: Gesellschaft & Abstraktes,,n,yalan
+die Freiheit,freedom,Top-Nomen: Gesellschaft & Abstraktes,,n,özgürlük
+die Sicherheit,"safety, security",Top-Nomen: Gesellschaft & Abstraktes,,n,güvenlik
+die Gefahr,danger,Top-Nomen: Gesellschaft & Abstraktes,,n,tehlike
+das Risiko,risk,Top-Nomen: Gesellschaft & Abstraktes,,n,risk
+die Verantwortung,responsibility,Top-Nomen: Gesellschaft & Abstraktes,,n,sorumluluk
+die Entscheidung,decision,Top-Nomen: Gesellschaft & Abstraktes,,n,karar
+die Meinung,opinion,Top-Nomen: Gesellschaft & Abstraktes,,n,"görüş, fikir"
+der Unterschied,difference,Top-Nomen: Gesellschaft & Abstraktes,,n,fark
+die Ähnlichkeit,similarity,Top-Nomen: Gesellschaft & Abstraktes,,n,benzerlik
+die Beziehung,relationship,Top-Nomen: Gesellschaft & Abstraktes,,n,ilişki
+die Liebe,love,Top-Nomen: Gesellschaft & Abstraktes,,n,aşk
+der Hass,hate,Top-Nomen: Gesellschaft & Abstraktes,,n,nefret
+die Angst,fear,Top-Nomen: Gesellschaft & Abstraktes,,n,korku
+die Freude,joy,Top-Nomen: Gesellschaft & Abstraktes,,n,sevinç
+die Wut,anger,Top-Nomen: Gesellschaft & Abstraktes,,n,öfke
+die Hoffnung,hope,Top-Nomen: Gesellschaft & Abstraktes,,n,umut
+der Traum,dream,Top-Nomen: Gesellschaft & Abstraktes,,n,"rüya, hayal"
+der Zweifel,doubt,Top-Nomen: Gesellschaft & Abstraktes,,n,şüphe
+die Geduld,patience,Top-Nomen: Gesellschaft & Abstraktes,,n,sabır
+der Mut,courage,Top-Nomen: Gesellschaft & Abstraktes,,n,cesaret
+die Ehrlichkeit,honesty,Top-Nomen: Gesellschaft & Abstraktes,,n,dürüstlük
+die Macht,power,Top-Nomen: Gesellschaft & Abstraktes,,n,"güç, iktidar"
+der Einfluss,influence,Top-Nomen: Gesellschaft & Abstraktes,,n,etki
+der Erfolg,success,Top-Nomen: Gesellschaft & Abstraktes,,n,başarı
+die Niederlage,defeat,Top-Nomen: Gesellschaft & Abstraktes,,n,yenilgi
+gut,good,Top-Adjektive,,adj,iyi
+schlecht,bad,Top-Adjektive,,adj,kötü
+groß,"big, tall",Top-Adjektive,,adj,"büyük, uzun (boy)"
+klein,small,Top-Adjektive,,adj,küçük
+neu,new,Top-Adjektive,,adj,yeni
+alt,old,Top-Adjektive,,adj,"eski, yaşlı"
+jung,young,Top-Adjektive,,adj,genç
+schön,beautiful,Top-Adjektive,,adj,güzel
+hässlich,ugly,Top-Adjektive,,adj,çirkin
+lang,long,Top-Adjektive,,adj,uzun
+kurz,short,Top-Adjektive,,adj,kısa
+hoch,"high, tall",Top-Adjektive,,adj,yüksek
+niedrig,low,Top-Adjektive,,adj,"alçak, düşük"
+breit,wide,Top-Adjektive,,adj,geniş
+schmal,narrow,Top-Adjektive,,adj,dar
+schwer,"heavy, difficult",Top-Adjektive,,adj,"ağır, zor"
+leicht,"light, easy",Top-Adjektive,,adj,"hafif, kolay"
+stark,strong,Top-Adjektive,,adj,güçlü
+schwach,weak,Top-Adjektive,,adj,zayıf
+schnell,fast,Top-Adjektive,,adj,hızlı
+langsam,slow,Top-Adjektive,,adj,yavaş
+früh,early,Top-Adjektive,,adj,erken
+spät,late,Top-Adjektive,,adj,geç
+heiß,hot,Top-Adjektive,,adj,sıcak (yüksek)
+kalt,cold,Top-Adjektive,,adj,soğuk
+warm,warm,Top-Adjektive,,adj,"ılık, sıcak"
+kühl,cool,Top-Adjektive,,adj,serin
+trocken,dry,Top-Adjektive,,adj,kuru
+nass,wet,Top-Adjektive,,adj,ıslak
+voll,full,Top-Adjektive,,adj,dolu
+leer,empty,Top-Adjektive,,adj,boş
+offen,open,Top-Adjektive,,adj,açık
+geschlossen,closed,Top-Adjektive,,adj,kapalı
+richtig,"right, correct",Top-Adjektive,,adj,doğru
+falsch,wrong,Top-Adjektive,,adj,yanlış
+wichtig,important,Top-Adjektive,,adj,önemli
+unwichtig,unimportant,Top-Adjektive,,adj,önemsiz
+einfach,simple,Top-Adjektive,,adj,basit
+schwierig,difficult,Top-Adjektive,,adj,zor
+interessant,interesting,Top-Adjektive,,adj,ilginç
+langweilig,boring,Top-Adjektive,,adj,sıkıcı
+lustig,funny,Top-Adjektive,,adj,"komik, eğlenceli"
+traurig,sad,Top-Adjektive,,adj,üzgün
+glücklich,happy,Top-Adjektive,,adj,mutlu
+zufrieden,satisfied,Top-Adjektive,,adj,memnun
+müde,tired,Top-Adjektive,,adj,yorgun
+hungrig,hungry,Top-Adjektive,,adj,aç
+durstig,thirsty,Top-Adjektive,,adj,susamış
+gesund,healthy,Top-Adjektive,,adj,sağlıklı
+krank,sick,Top-Adjektive,,adj,hasta
+stark,strong,Top-Adjektive,,adj,güçlü
+freundlich,friendly,Top-Adjektive,,adj,"samimi, güler yüzlü"
+unfreundlich,unfriendly,Top-Adjektive,,adj,"soğuk, kaba"
+nett,nice,Top-Adjektive,,adj,"sevimli, kibar"
+höflich,polite,Top-Adjektive,,adj,nazik
+ehrlich,honest,Top-Adjektive,,adj,dürüst
+ruhig,"calm, quiet",Top-Adjektive,,adj,"sakin, sessiz"
+laut,loud,Top-Adjektive,,adj,gürültülü
+leise,"quiet, soft (sound)",Top-Adjektive,,adj,"sessiz, hafif (ses)"
+teuer,expensive,Top-Adjektive,,adj,pahalı
+billig,cheap,Top-Adjektive,,adj,ucuz
+günstig,"affordable, favorable",Top-Adjektive,,adj,"uygun fiyatlı, elverişli"
+sauber,clean,Top-Adjektive,,adj,temiz
+schmutzig,dirty,Top-Adjektive,,adj,kirli
+frisch,fresh,Top-Adjektive,,adj,taze
+alt,"old, stale",Top-Adjektive,,adj,"eski, yaşlı"
+sicher,"safe, sure",Top-Adjektive,,adj,"güvenli, emin"
+gefährlich,dangerous,Top-Adjektive,,adj,tehlikeli
+möglich,possible,Top-Adjektive,,adj,mümkün
+unmöglich,impossible,Top-Adjektive,,adj,imkansız
+nötig,necessary,Top-Adjektive,,adj,gerekli
+notwendig,necessary,Top-Adjektive,,adj,"zorunlu, gerekli"
+frei,free,Top-Adjektive,,adj,"serbest, boş"
+besetzt,"occupied, taken",Top-Adjektive,,adj,"dolu, meşgul"
+verschieden,different,Top-Adjektive,,adj,"farklı, çeşitli"
+gleich,"same, equal",Top-Adjektive,,adj,"aynı, eşit"
+ähnlich,similar,Top-Adjektive,,adj,benzer
+normal,normal,Top-Adjektive,,adj,normal
+besonders (adj.),special,Top-Adjektive,,adj,özel
+typisch,typical,Top-Adjektive,,adj,tipik
+seltsam,strange,Top-Adjektive,,adj,"tuhaf, garip"
+modern,modern,Top-Adjektive,,adj,modern
+traditionell,traditional,Top-Adjektive,,adj,geleneksel
+praktisch,practical,Top-Adjektive,,adj,pratik
+nützlich,useful,Top-Adjektive,,adj,faydalı
+nutzlos,useless,Top-Adjektive,,adj,faydasız
+klug,"smart, clever",Top-Adjektive,,adj,"akıllı, zeki"
+dumm,stupid,Top-Adjektive,,adj,aptal
+intelligent,intelligent,Top-Adjektive,,adj,zeki
+kreativ,creative,Top-Adjektive,,adj,yaratıcı
+fleißig,hardworking,Top-Adjektive,,adj,çalışkan
+faul,lazy,Top-Adjektive,,adj,tembel
+pünktlich,punctual,Top-Adjektive,,adj,dakik
+zuverlässig,reliable,Top-Adjektive,,adj,güvenilir
+mutig,brave,Top-Adjektive,,adj,cesur
+ängstlich,"fearful, anxious",Top-Adjektive,,adj,"korkak, endişeli"
+stolz,proud,Top-Adjektive,,adj,gururlu
+eifersüchtig,jealous,Top-Adjektive,,adj,kıskanç
+geduldig,patient,Top-Adjektive,,adj,sabırlı
+ungeduldig,impatient,Top-Adjektive,,adj,sabırsız
+vorsichtig,careful,Top-Adjektive,,adj,dikkatli
+mutig,courageous,Top-Adjektive,,adj,cesur
+ernst,serious,Top-Adjektive,,adj,ciddi
+dunkel,dark,Top-Adjektive,,adj,karanlık
+hell,"bright, light",Top-Adjektive,,adj,"aydınlık, açık (renk)"
+rund,round,Top-Adjektive,,adj,yuvarlak
+eckig,angular,Top-Adjektive,,adj,köşeli
+flach,flat,Top-Adjektive,,adj,"düz, sığ"
+tief,deep,Top-Adjektive,,adj,derin
+dick,"thick, fat",Top-Adjektive,,adj,"kalın, şişman"
+dünn,thin,Top-Adjektive,,adj,"ince, zayıf"
+weich,soft,Top-Adjektive,,adj,yumuşak
+hart,hard,Top-Adjektive,,adj,sert
+scharf,"sharp, spicy",Top-Adjektive,,adj,"keskin, acı (baharatlı)"
+deshalb,therefore,Top-Adverbien & sonstige Verbindungswörter,,adv,bu yüzden
+trotzdem,nevertheless,Top-Adverbien & sonstige Verbindungswörter,,adv,yine de
+außerdem,furthermore,Top-Adverbien & sonstige Verbindungswörter,,adv,ayrıca
+allerdings,however,Top-Adverbien & sonstige Verbindungswörter,,adv,"ama, gelgelelim"
+obwohl,although,Top-Adverbien & sonstige Verbindungswörter,,conj,-e rağmen
+sobald,as soon as,Top-Adverbien & sonstige Verbindungswörter,,conj,-ir -mez
+falls,in case,Top-Adverbien & sonstige Verbindungswörter,,conj,eğer
+sodass,so that,Top-Adverbien & sonstige Verbindungswörter,,conj,"öyle ki, böylece"
+damit,"so that, in order to",Top-Adverbien & sonstige Verbindungswörter,,conj,-mesi için
+zwar,indeed,Top-Adverbien & sonstige Verbindungswörter,,adv,"gerçi, doğrusu"
+dennoch,nevertheless,Top-Adverbien & sonstige Verbindungswörter,,adv,yine de
+jedoch,however,Top-Adverbien & sonstige Verbindungswörter,,adv,"ancak, fakat"
+einerseits,on one hand,Top-Adverbien & sonstige Verbindungswörter,,adv,bir yandan
+andererseits,on the other hand,Top-Adverbien & sonstige Verbindungswörter,,adv,öte yandan
+schließlich,"finally, after all",Top-Adverbien & sonstige Verbindungswörter,,adv,"sonunda, nihayetinde"
+zunächst,"first, initially",Top-Adverbien & sonstige Verbindungswörter,,adv,"önce, ilk olarak"
+anschließend,"subsequently, afterward",Top-Adverbien & sonstige Verbindungswörter,,adv,ardından
+inzwischen,meanwhile,Top-Adverbien & sonstige Verbindungswörter,,adv,bu arada
+gleichzeitig,simultaneously,Top-Adverbien & sonstige Verbindungswörter,,adv,aynı anda
+vorher,"before, beforehand",Top-Adverbien & sonstige Verbindungswörter,,adv,önceden
+nachher,afterward,Top-Adverbien & sonstige Verbindungswörter,,adv,sonradan
+danach,after that,Top-Adverbien & sonstige Verbindungswörter,,adv,ondan sonra
+davor,before that,Top-Adverbien & sonstige Verbindungswörter,,adv,ondan önce
+übrigens,by the way,Top-Adverbien & sonstige Verbindungswörter,,adv,"bu arada, aklıma gelmişken"
+sozusagen,so to speak,Top-Adverbien & sonstige Verbindungswörter,,adv,deyim yerindeyse
+nämlich,namely,Top-Adverbien & sonstige Verbindungswörter,,adv,"yani, şöyle ki"
+insgesamt,altogether,Top-Adverbien & sonstige Verbindungswörter,,adv,toplamda
+ungefähr,approximately,Top-Adverbien & sonstige Verbindungswörter,,adv,yaklaşık
+etwa,"about, roughly",Top-Adverbien & sonstige Verbindungswörter,,adv,"yaklaşık, takriben"
+mindestens,at least,Top-Adverbien & sonstige Verbindungswörter,,adv,en az
+höchstens,at most,Top-Adverbien & sonstige Verbindungswörter,,adv,en fazla
+kaum,hardly,Top-Adverbien & sonstige Verbindungswörter,,adv,neredeyse hiç
+eher,"rather, more likely",Top-Adverbien & sonstige Verbindungswörter,,adv,"daha çok, ziyade"
+sowieso,anyway,Top-Adverbien & sonstige Verbindungswörter,,adv,"zaten, nasılsa"
+trotzdem,"anyway, still",Top-Adverbien & sonstige Verbindungswörter,,adv,yine de
+absolut,absolutely,Top-Adverbien & sonstige Verbindungswörter,,adv,kesinlikle
+völlig,completely,Top-Adverbien & sonstige Verbindungswörter,,adv,tamamen
+ständig,constantly,Top-Adverbien & sonstige Verbindungswörter,,adv,sürekli
+dauernd,constantly,Top-Adverbien & sonstige Verbindungswörter,,adv,"sürekli, durmadan"
+plötzlich,suddenly,Top-Adverbien & sonstige Verbindungswörter,,adv,aniden
+sofort,immediately,Top-Adverbien & sonstige Verbindungswörter,,adv,hemen
+gerne,gladly,Top-Adverbien & sonstige Verbindungswörter,,adv,memnuniyetle
+unbedingt,"absolutely, definitely",Top-Adverbien & sonstige Verbindungswörter,,adv,"kesinlikle, mutlaka"
+vielleicht,perhaps,Top-Adverbien & sonstige Verbindungswörter,,adv,belki
+null,zero,Zahlen & Mengen,,num,sıfır
+eins,one,Zahlen & Mengen,,num,bir
+zwei,two,Zahlen & Mengen,,num,iki
+drei,three,Zahlen & Mengen,,num,üç
+vier,four,Zahlen & Mengen,,num,dört
+fünf,five,Zahlen & Mengen,,num,beş
+sechs,six,Zahlen & Mengen,,num,altı
+sieben,seven,Zahlen & Mengen,,num,yedi
+acht,eight,Zahlen & Mengen,,num,sekiz
+neun,nine,Zahlen & Mengen,,num,dokuz
+zehn,ten,Zahlen & Mengen,,num,on
+elf,eleven,Zahlen & Mengen,,num,on bir
+zwölf,twelve,Zahlen & Mengen,,num,on iki
+zwanzig,twenty,Zahlen & Mengen,,num,yirmi
+dreißig,thirty,Zahlen & Mengen,,num,otuz
+hundert,hundred,Zahlen & Mengen,,num,yüz
+tausend,thousand,Zahlen & Mengen,,num,bin
+million,million,Zahlen & Mengen,,num,milyon
+erste,first,Zahlen & Mengen,,num,birinci
+zweite,second,Zahlen & Mengen,,num,ikinci
+dritte,third,Zahlen & Mengen,,num,üçüncü
+letzte,last,Zahlen & Mengen,,num,sonuncu
+nächste,next,Zahlen & Mengen,,num,sonraki
+halb,half,Zahlen & Mengen,,num,yarım
+viel,"much, a lot",Zahlen & Mengen,,quant,çok
+wenig,"little, few",Zahlen & Mengen,,quant,az
+mehr,more,Zahlen & Mengen,,quant,daha fazla
+weniger,"less, fewer",Zahlen & Mengen,,quant,daha az
+genug,enough,Zahlen & Mengen,,quant,yeterli
+zu viel,too much,Zahlen & Mengen,,quant,çok fazla
+ein paar,a few,Zahlen & Mengen,,quant,birkaç
+einige,some,Zahlen & Mengen,,quant,bazı
+mehrere,several,Zahlen & Mengen,,quant,"birkaç tane, çeşitli"
+manche,some (people/things),Zahlen & Mengen,,quant,bazıları
+beide,both,Zahlen & Mengen,,quant,her ikisi
+ganz,"whole, entire",Zahlen & Mengen,,quant,"oldukça, tamamen"

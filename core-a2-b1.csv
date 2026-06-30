@@ -1,0 +1,138 @@
+de,en,cat,ex,pos,tr
+Grüezi,hello (Swiss greeting),Service & Begrüssung,"Grüezi, was darf es sein?",,merhaba (İsviçre selamı)
+Guten Tag,good day / hello,Service & Begrüssung,"Guten Tag, kann ich Ihnen helfen?",,iyi günler / merhaba
+Auf Wiedersehen,goodbye,Service & Begrüssung,Auf Wiedersehen und schönen Tag noch!,,hoşça kal / güle güle
+Adieu,bye (Swiss),Service & Begrüssung,"Adieu, bis zum nächsten Mal!",,hoşça kal (İsviçre)
+Merci,thank you (Swiss),Service & Begrüssung,Merci vielmal für Ihre Geduld.,,teşekkür ederim (İsviçre)
+bitte,please / you're welcome,Service & Begrüssung,"Bitte sehr, hier ist Ihre Bestellung.",,lütfen / rica ederim
+entschuldigen,to excuse / apologize,Service & Begrüssung,Entschuldigen Sie die Wartezeit.,,özür dilemek
+helfen,to help,Service & Begrüssung,Kann ich Ihnen weiterhelfen?,,yardım etmek
+die Hilfe,help (noun),Service & Begrüssung,Brauchen Sie Hilfe beim Tragen?,,yardım (isim)
+der Kunde / die Kundin,customer,Service & Begrüssung,Der Kunde wartet schon zehn Minuten.,,müşteri
+freundlich,friendly,Service & Begrüssung,Das Personal ist sehr freundlich.,,"samimi, güler yüzlü"
+verstehen,to understand,Service & Begrüssung,Ich verstehe Sie leider nicht ganz.,,anlamak
+wiederholen,to repeat,Service & Begrüssung,Können Sie das bitte wiederholen?,,tekrarlamak
+langsam,slow(ly),Service & Begrüssung,Sprechen Sie bitte etwas langsamer.,,yavaş(ça)
+der Preis,price,Zahlen & Geld,Wie hoch ist der Preis dafür?,,fiyat
+kosten,to cost,Zahlen & Geld,Was kostet das insgesamt?,,"-e mal olmak, tutmak"
+bezahlen,to pay,Zahlen & Geld,Möchten Sie bar oder mit Karte bezahlen?,,ödemek
+das Wechselgeld,change (money),Zahlen & Geld,Hier ist Ihr Wechselgeld.,,para üstü
+die Rechnung,bill / invoice,Zahlen & Geld,Die Rechnung kommt gleich.,,fatura / hesap
+der Rabatt,discount,Zahlen & Geld,Gibt es einen Rabatt für Studenten?,,indirim
+der Termin,appointment,Zahlen & Geld,Haben Sie einen Termin vereinbart?,,randevu
+die Uhrzeit,time of day,Zahlen & Geld,Um welche Uhrzeit passt es Ihnen?,,saat (günün saati)
+pünktlich,"on time, punctual",Zahlen & Geld,Bitte seien Sie pünktlich.,,"dakik, zamanında"
+die Pause,break,Zahlen & Geld,Wir machen jetzt kurz Pause.,,mola
+der Feierabend,end of the workday,Zahlen & Geld,Ich habe um sechs Feierabend.,,"iş çıkışı, mesai bitimi"
+bestellen,to order,Einkaufen & Dienstleistung,Was möchten Sie bestellen?,,sipariş etmek
+die Bestellung,order,Einkaufen & Dienstleistung,Ihre Bestellung ist gleich fertig.,,sipariş
+die Lieferung,delivery,Einkaufen & Dienstleistung,Die Lieferung kommt morgen früh.,,teslimat
+reservieren,to reserve,Einkaufen & Dienstleistung,Ich möchte einen Tisch reservieren.,,rezervasyon yapmak
+die Reklamation,complaint,Einkaufen & Dienstleistung,Wir nehmen Ihre Reklamation ernst.,,şikayet
+umtauschen,to exchange,Einkaufen & Dienstleistung,Kann ich diesen Artikel umtauschen?,,değiştirmek (ürün)
+zurückgeben,to return (an item),Einkaufen & Dienstleistung,Sie können die Ware zurückgeben.,,"geri vermek, iade etmek"
+die Quittung,receipt,Einkaufen & Dienstleistung,Haben Sie noch die Quittung dabei?,,"fiş, makbuz"
+verfügbar,available,Einkaufen & Dienstleistung,Dieses Modell ist leider nicht verfügbar.,,"mevcut, elde edilebilir"
+ausverkauft,sold out,Einkaufen & Dienstleistung,Die Grösse M ist ausverkauft.,,"tükenmiş, satıldı"
+die Grösse,size,Einkaufen & Dienstleistung,Welche Grösse brauchen Sie?,,"beden, boyut"
+anprobieren,to try on,Einkaufen & Dienstleistung,Sie können es gerne anprobieren.,,"prova etmek, denemek"
+empfehlen,to recommend,Einkaufen & Dienstleistung,Was würden Sie mir empfehlen?,,tavsiye etmek
+die Öffnungszeiten,opening hours,Einkaufen & Dienstleistung,Unsere Öffnungszeiten sind auf der Website.,,açılış saatleri
+erledigen,to take care of / get done,Arbeit & Aufgaben,Ich erledige das sofort für Sie.,,"halletmek, bitirmek"
+erklären,to explain,Arbeit & Aufgaben,Lassen Sie mich das kurz erklären.,,açıklamak
+zuständig,responsible (for),Arbeit & Aufgaben,Dafür ist meine Kollegin zuständig.,,sorumlu (bir konudan)
+die Anweisung,instruction,Arbeit & Aufgaben,Bitte folgen Sie den Anweisungen.,,talimat
+überprüfen,"to check, verify",Arbeit & Aufgaben,Ich überprüfe kurz Ihre Daten.,,"kontrol etmek, doğrulamak"
+vereinbaren,"to arrange, agree on",Arbeit & Aufgaben,Wir vereinbaren einen neuen Termin.,,"kararlaştırmak, anlaşmak"
+die Erfahrung,experience,Arbeit & Aufgaben,Ich habe Erfahrung im Kundenkontakt.,,deneyim
+die Aufgabe,task,Arbeit & Aufgaben,Das ist meine erste Aufgabe heute.,,görev
+selbstständig,independent(ly),Arbeit & Aufgaben,Ich arbeite gern selbstständig.,,bağımsız (şekilde)
+die Pünktlichkeit,punctuality,Arbeit & Aufgaben,Pünktlichkeit ist mir wichtig.,,dakiklik
+zuverlässig,reliable,Arbeit & Aufgaben,Er ist ein sehr zuverlässiger Mitarbeiter.,,güvenilir
+brauchen,to need,Alltag,Brauchen Sie noch etwas anderes?,,ihtiyacı olmak
+möchten,would like,Alltag,Möchten Sie noch eine Tüte?,,istemek (nazik biçimde)
+gerne,gladly / sure,Alltag,"Gerne, ich hole es sofort.",,"memnuniyetle, tabii ki"
+leider,unfortunately,Alltag,Leider haben wir das nicht mehr.,,maalesef
+vielleicht,maybe,Alltag,"Vielleicht morgen, das weiss ich noch nicht.",,belki
+natürlich,of course,Alltag,"Natürlich, kein Problem.",,"tabii ki, doğal olarak"
+sofort,immediately,Alltag,Ich komme sofort zu Ihnen.,,hemen
+warten,to wait,Alltag,Bitte warten Sie einen Moment.,,beklemek
+die Geduld,patience,Alltag,Vielen Dank für Ihre Geduld.,,sabır
+das Problem,problem,Alltag,Wir lösen das Problem gemeinsam.,,"problem, sorun"
+die Lösung,solution,Alltag,Hier ist eine mögliche Lösung.,,çözüm
+die Richtung,direction,Alltag,Können Sie mir die Richtung zeigen?,,yön
+der Weg,"way, path",Alltag,Der Weg dorthin ist nicht weit.,,yol
+die Adresse,address,Alltag,Wie lautet Ihre Adresse?,,adres
+das Formular,form (document),Alltag,Bitte füllen Sie dieses Formular aus.,,form (belge)
+unterschreiben,to sign,Alltag,Können Sie hier unterschreiben?,,imzalamak
+der Ausweis,ID card,Alltag,Haben Sie Ihren Ausweis dabei?,,kimlik kartı
+zufrieden,satisfied,Meinung & Gefühle,Sind Sie mit dem Ergebnis zufrieden?,,memnun
+enttäuscht,disappointed,Meinung & Gefühle,Ich bin etwas enttäuscht vom Service.,,hayal kırıklığına uğramış
+sich beschweren,to complain,Meinung & Gefühle,Der Kunde möchte sich beschweren.,,şikayet etmek
+sich entschuldigen,to apologize,Meinung & Gefühle,Ich entschuldige mich für die Verspätung.,,özür dilemek
+die Meinung,opinion,Meinung & Gefühle,Was ist Ihre Meinung dazu?,,"görüş, fikir"
+vorschlagen,to suggest,Meinung & Gefühle,Ich schlage einen anderen Termin vor.,,önermek
+sich freuen,to be glad,Meinung & Gefühle,Wir freuen uns auf Ihren Besuch.,,"sevinmek, memnun olmak"
+überzeugt,convinced,Meinung & Gefühle,"Ich bin überzeugt, dass es klappt.",,"ikna olmuş, emin"
+unsicher,unsure,Meinung & Gefühle,Ich bin mir noch unsicher.,,"emin olmayan, kararsız"
+erleichtert,relieved,Meinung & Gefühle,Sie wirkte sehr erleichtert.,,rahatlamış
+obwohl,although,Verbindungswörter,"Obwohl es regnet, gehen wir spazieren.",,"-e rağmen, gerçi"
+deshalb,therefore,Verbindungswörter,"Es war ausverkauft, deshalb kam ich später.",,bu yüzden
+trotzdem,nevertheless,Verbindungswörter,Trotzdem haben wir es geschafft.,,"yine de, buna rağmen"
+während,"while, during",Verbindungswörter,Während der Pause können Sie warten.,,"-iken, sırasında"
+sobald,as soon as,Verbindungswörter,"Ich rufe an, sobald es fertig ist.",,"-er -mez, hemen olunca"
+falls,in case,Verbindungswörter,"Falls es Probleme gibt, melden Sie sich.",,"eğer, -se"
+außerdem,furthermore,Verbindungswörter,Außerdem ist die Lieferung kostenlos.,,"ayrıca, bunun yanında"
+allerdings,however,Verbindungswörter,Allerdings dauert es etwas länger.,,"ama, gelgelelim"
+der Coiffeur,hairdresser (CH),Helvetismen,Ich habe einen Termin beim Coiffeur.,,kuaför (İsviçre)
+das Velo,bicycle (CH),Helvetismen,Ich komme mit dem Velo zur Arbeit.,,bisiklet (İsviçre)
+das Billett,ticket (CH),Helvetismen,Wo kaufe ich ein Billett?,,bilet (İsviçre)
+das Poulet,chicken (CH),Helvetismen,Ich nehme das Poulet mit Reis.,,tavuk (İsviçre)
+die Glace,ice cream (CH),Helvetismen,Zwei Kugeln Glace bitte.,,dondurma (İsviçre)
+parkieren,to park (CH),Helvetismen,Hier dürfen Sie nicht parkieren.,,park etmek (İsviçre)
+das Natel,mobile phone (CH),Helvetismen,Ich erreiche Sie am besten übers Natel.,,cep telefonu (İsviçre)
+die Wohnung,apartment,Wohnung & Möbel,Die Wohnung hat zwei Zimmer.,,daire
+das Zimmer,room,Wohnung & Möbel,Mein Zimmer ist ziemlich klein.,,oda
+die Küche,kitchen,Wohnung & Möbel,Die Küche ist frisch renoviert.,,mutfak
+das Schlafzimmer,bedroom,Wohnung & Möbel,Im Schlafzimmer steht nur ein Bett.,,yatak odası
+das Wohnzimmer,living room,Wohnung & Möbel,Wir sitzen abends im Wohnzimmer.,,oturma odası
+das Badezimmer,bathroom,Wohnung & Möbel,Das Badezimmer hat eine Dusche.,,banyo
+der Flur,hallway,Wohnung & Möbel,Die Schuhe stehen im Flur.,,"koridor, antre"
+der Balkon,balcony,Wohnung & Möbel,Im Sommer frühstücken wir auf dem Balkon.,,balkon
+der Keller,"cellar, basement",Wohnung & Möbel,Die Velos stehen im Keller.,,"bodrum, kiler"
+der Schrank,"cupboard, closet",Wohnung & Möbel,Die Teller sind im Schrank.,,dolap
+das Regal,shelf,Wohnung & Möbel,Die Bücher stehen im Regal.,,raf
+der Tisch,table,Wohnung & Möbel,Der Tisch steht in der Mitte des Zimmers.,,masa
+der Stuhl,chair,Wohnung & Möbel,Bitte nehmen Sie auf diesem Stuhl Platz.,,sandalye
+das Sofa,"sofa, couch",Wohnung & Möbel,Wir haben ein neues Sofa gekauft.,,kanepe
+das Bett,bed,Wohnung & Möbel,Das Bett ist sehr bequem.,,yatak
+die Matratze,mattress,Wohnung & Möbel,Die Matratze ist schon etwas alt.,,"yatak (şilte), şilte"
+die Lampe,lamp,Wohnung & Möbel,Die Lampe im Flur ist kaputt.,,lamba
+der Spiegel,mirror,Wohnung & Möbel,Der Spiegel hängt über dem Waschbecken.,,ayna
+der Teppich,"carpet, rug",Wohnung & Möbel,Der Teppich passt gut zur Couch.,,halı
+der Vorhang,curtain,Wohnung & Möbel,Die Vorhänge sind dunkelblau.,,perde
+die Schublade,drawer,Wohnung & Möbel,Das Besteck liegt in der Schublade.,,çekmece
+der Herd,stove,Wohnung & Möbel,Der Herd hat vier Platten.,,ocak (mutfak)
+der Backofen,oven,Wohnung & Möbel,Der Kuchen ist noch im Backofen.,,fırın
+der Kühlschrank,fridge,Wohnung & Möbel,Im Kühlschrank ist nichts mehr.,,buzdolabı
+die Spülmaschine,dishwasher,Wohnung & Möbel,Stell den Teller in die Spülmaschine.,,bulaşık makinesi
+die Waschmaschine,washing machine,Wohnung & Möbel,Die Waschmaschine ist im Keller.,,çamaşır makinesi
+der Staubsauger,vacuum cleaner,Wohnung & Möbel,Der Staubsauger ist kaputt gegangen.,,elektrikli süpürge
+der Besen,broom,Wohnung & Möbel,Hol bitte den Besen aus dem Keller.,,süpürge
+der Eimer,bucket,Wohnung & Möbel,Der Eimer steht neben der Tür.,,kova
+die Steckdose,power outlet,Wohnung & Möbel,Die Steckdose neben dem Bett funktioniert nicht.,,priz
+der Schalter,switch,Wohnung & Möbel,Der Schalter ist links neben der Tür.,,anahtar (elektrik)
+die Heizung,heating,Wohnung & Möbel,Die Heizung ist im Winter sehr wichtig.,,"kalorifer, ısıtma"
+das Fenster,window,Wohnung & Möbel,Bitte mach das Fenster zu.,,pencere
+die Tür,door,Wohnung & Möbel,Die Tür klemmt ein bisschen.,,kapı
+das Schloss,lock,Wohnung & Möbel,Das Schloss an der Haustür ist neu.,,kilit
+der Schlüssel,key,Wohnung & Möbel,Ich habe meinen Schlüssel vergessen.,,anahtar
+der Mülleimer,trash can,Wohnung & Möbel,Der Mülleimer ist schon wieder voll.,,çöp kovası
+der Wäschekorb,laundry basket,Wohnung & Möbel,Die schmutzige Wäsche liegt im Wäschekorb.,,çamaşır sepeti
+das Bügeleisen,iron (for clothes),Wohnung & Möbel,Das Bügeleisen ist noch heiss.,,ütü
+die Glühbirne,light bulb,Wohnung & Möbel,Die Glühbirne im Flur muss ausgetauscht werden.,,ampul
+der Briefkasten,mailbox,Wohnung & Möbel,Schau bitte im Briefkasten nach.,,posta kutusu
+die Miete,rent,Wohnung & Möbel,Die Miete wird Anfang Monat überwiesen.,,kira
+der Umzug,move (relocation),Wohnung & Möbel,Der Umzug ist nächsten Samstag.,,taşınma
+kaputt,broken,Wohnung & Möbel,Die Lampe im Bad ist kaputt.,,"bozuk, kırık"
+reparieren,to repair,Wohnung & Möbel,Können Sie das bitte reparieren?,,tamir etmek
