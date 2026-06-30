@@ -354,6 +354,7 @@ function buildQueue(offset){
     }
   });
   due.sort(()=>Math.random()-0.5);
+  fresh.sort(()=>Math.random()-0.5);
   freshPool = fresh;
   freshOffset = offset || 0;
   const newOnes = freshPool.slice(freshOffset, freshOffset + DAILY_NEW_LIMIT);
