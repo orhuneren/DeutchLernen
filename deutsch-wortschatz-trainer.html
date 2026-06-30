@@ -70,7 +70,7 @@
   .card .word{font-size:38px; font-weight:600; line-height:1.2;}
   .card .ex{font-size:16px; color:var(--muted); font-style:italic; max-width:420px; line-height:1.4;}
   .card .hint{font-family:Arial,sans-serif; font-size:13px; color:var(--muted); margin-top:8px;}
-  .card .answer{font-size:34px; font-weight:600; color:var(--hard);}
+  .card .answer{font-size:38px; font-weight:600; color:var(--hard);}
   .card .pos{font-family:Arial,sans-serif; font-size:11px; color:var(--muted); text-transform:uppercase;}
 
   .empty{text-align:center; padding:50px 20px; font-family:Arial,sans-serif; color:var(--muted); font-size:15px;}
@@ -130,7 +130,7 @@
     padding:0 6vw; pointer-events:none;
   }
   .low-word{font-size:clamp(40px, 12vw, 92px); max-width:90vw; font-weight:600; line-height:1.15; word-break:break-word;}
-  .low-answer{font-size:clamp(28px, 8vw, 58px); font-weight:600; max-width:90vw; color:var(--hard); line-height:1.2; word-break:break-word;}
+  .low-answer{font-size:clamp(40px, 12vw, 92px); font-weight:600; max-width:90vw; color:var(--hard); line-height:1.2; word-break:break-word;}
 
   .zones{
     position:absolute; inset:0; z-index:5; display:grid;
@@ -150,7 +150,7 @@
 
   @media (orientation:landscape){
     .low-word{font-size:clamp(40px, 8.5vw, 100px); max-width:94vw;}
-    .low-answer{font-size:clamp(28px, 6.5vw, 60px); max-width:94vw;}
+    .low-answer{font-size:clamp(40px, 8.5vw, 100px); max-width:94vw;}
     .low-attn .zones{grid-template-columns:16% 68% 16%; grid-template-rows:24% 52% 24%;}
   }
 </style>
