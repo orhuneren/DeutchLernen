@@ -1,0 +1,122 @@
+de,en,cat,ex,pos,tr
+die Kleidung,clothing,Kleidung & Mode,Im Koffer habe ich nicht viel Kleidung.,n,"kıyafet, giysi"
+das Hemd,shirt,Kleidung & Mode,Das Hemd passt nicht mehr.,n,gömlek
+die Hose,"trousers, pants",Kleidung & Mode,Die Hose ist mir zu eng.,n,pantolon
+das T-Shirt,T-shirt,Kleidung & Mode,Ich brauche ein neues T-Shirt.,n,tişört
+der Pullover,sweater,Kleidung & Mode,Im Winter trage ich oft einen Pullover.,n,kazak
+die Jacke,jacket,Kleidung & Mode,"Zieh deine Jacke an, es ist kalt.",n,"ceket, mont"
+der Rock,skirt,Kleidung & Mode,Der Rock ist etwas zu lang.,n,etek
+das Kleid,dress,Kleidung & Mode,Sie trägt heute ein schönes Kleid.,n,elbise
+die Schuhe,shoes,Kleidung & Mode,Meine Schuhe sind schon ziemlich alt.,n,ayakkabı
+die Socken,socks,Kleidung & Mode,Hast du noch saubere Socken?,n,çorap
+die Unterwäsche,underwear,Kleidung & Mode,Die Unterwäsche liegt in der obersten Schublade.,n,iç çamaşırı
+die Mütze,"hat, beanie",Kleidung & Mode,Bei diesem Wetter brauchst du eine Mütze.,n,"bere, şapka"
+der Schal,scarf,Kleidung & Mode,Der Schal hält den Hals warm.,n,atkı
+die Handschuhe,gloves,Kleidung & Mode,Ohne Handschuhe friert man schnell.,n,eldiven
+der Gürtel,belt,Kleidung & Mode,Der Gürtel ist eine Nummer zu groß.,n,kemer
+die Umkleidekabine,fitting room,Kleidung & Mode,Die Umkleidekabine ist gleich hinten links.,n,deneme kabini
+die Größe,size (clothing),Kleidung & Mode,Welche Größe haben Sie normalerweise?,n,beden
+eng,tight,Kleidung & Mode,Die Jeans ist mir zu eng.,adj,dar
+weit,"loose, wide",Kleidung & Mode,Der Pullover ist angenehm weit.,adj,"bol, geniş"
+modisch,fashionable,Kleidung & Mode,Sie kleidet sich immer sehr modisch.,adj,"şık, moda"
+die Mode,fashion,Kleidung & Mode,Diese Farbe ist diesen Sommer in Mode.,n,moda
+anziehen,to put on (clothes),Kleidung & Mode,Zieh bitte eine warme Jacke an.,v,giymek (üstüne)
+ausziehen,to take off (clothes),Kleidung & Mode,Zieh die nassen Schuhe aus.,v,çıkarmak (üzerinden)
+passen,to fit,Kleidung & Mode,Die Hose passt mir leider nicht mehr.,v,"uymak, beden olmak"
+die Bank,bank,Bank & Versicherung,Die Bank hat heute bis sechs Uhr geöffnet.,n,banka
+das Konto,account,Bank & Versicherung,Ich möchte ein neues Konto eröffnen.,n,hesap (banka)
+die Kontonummer,account number,Bank & Versicherung,Geben Sie mir bitte Ihre Kontonummer.,n,hesap numarası
+die IBAN,IBAN,Bank & Versicherung,Die IBAN finden Sie auf Ihrer Karte.,n,IBAN
+die Überweisung,bank transfer,Bank & Versicherung,Die Überweisung dauert ein bis zwei Tage.,n,"havale, transfer"
+überweisen,to transfer (money),Bank & Versicherung,Ich überweise Ihnen den Betrag morgen.,v,havale etmek
+abheben,to withdraw (money),Bank & Versicherung,Ich muss noch Geld abheben.,v,para çekmek
+einzahlen,to deposit (money),Bank & Versicherung,Können Sie diesen Betrag einzahlen?,v,para yatırmak
+der Kontostand,account balance,Bank & Versicherung,Mein Kontostand ist diesen Monat niedrig.,n,hesap bakiyesi
+die Bankkarte,bank card,Bank & Versicherung,Ich habe meine Bankkarte verloren.,n,banka kartı
+die Kreditkarte,credit card,Bank & Versicherung,Akzeptieren Sie auch Kreditkarte?,n,kredi kartı
+der Geldautomat,ATM,Bank & Versicherung,Der nächste Geldautomat ist um die Ecke.,n,"ATM, bankamatik"
+die Gebühr,fee,Bank & Versicherung,Für diese Dienstleistung fällt eine Gebühr an.,n,"ücret, masraf"
+der Kredit,"loan, credit",Bank & Versicherung,Wir haben einen Kredit für die Wohnung aufgenommen.,n,kredi
+die Hypothek,mortgage,Bank & Versicherung,Die Hypothek läuft über zwanzig Jahre.,n,"ipotek, konut kredisi"
+die Versicherung,insurance,Bank & Versicherung,Welche Versicherung haben Sie abgeschlossen?,n,sigorta
+die Krankenkasse,health insurance provider,Bank & Versicherung,Bei welcher Krankenkasse sind Sie versichert?,n,sağlık sigortası kurumu
+die Prämie,insurance premium,Bank & Versicherung,Die Prämie steigt nächstes Jahr leicht.,n,sigorta primi
+der Schaden,"damage, claim",Bank & Versicherung,Ich möchte einen Schaden melden.,n,"hasar, zarar"
+die Selbstbehalt,deductible (CH usage),Bank & Versicherung,Der Selbstbehalt beträgt dreihundert Franken.,n,muafiyet payı
+versichern,to insure,Bank & Versicherung,Das Auto ist vollständig versichert.,v,sigortalamak
+die Steuererklärung,tax return,Bank & Versicherung,Die Steuererklärung muss bis Ende März eingereicht werden.,n,vergi beyannamesi
+die Behörde,"authority, government office",Behörden & Papierkram,Welche Behörde ist dafür zuständig?,n,"resmi kurum, makam"
+das Gemeindeamt,municipal office (CH),Behörden & Papierkram,Die Anmeldung läuft über das Gemeindeamt.,n,belediye dairesi (İsviçre)
+sich anmelden,to register (residence),Behörden & Papierkram,Ich muss mich innerhalb von zwei Wochen anmelden.,v,ikamet kaydı yaptırmak
+sich abmelden,to deregister,Behörden & Papierkram,"Vergessen Sie nicht, sich vor dem Umzug abzumelden.",v,kaydını sildirmek
+die Aufenthaltsbewilligung,residence permit (CH),Behörden & Papierkram,Meine Aufenthaltsbewilligung läuft nächstes Jahr ab.,n,ikamet izni (İsviçre)
+die Aufenthaltsgenehmigung,residence permit,Behörden & Papierkram,Ohne Aufenthaltsgenehmigung darf ich nicht arbeiten.,n,ikamet izni
+der Pass,passport,Behörden & Papierkram,Bitte bringen Sie Ihren Pass mit.,n,pasaport
+der Personalausweis,ID card,Behörden & Papierkram,Haben Sie Ihren Personalausweis dabei?,n,kimlik kartı
+die Geburtsurkunde,birth certificate,Behörden & Papierkram,Wir brauchen eine beglaubigte Geburtsurkunde.,n,doğum belgesi
+die Bescheinigung,"certificate, confirmation",Behörden & Papierkram,Ich brauche eine Bescheinigung über meinen Wohnsitz.,n,"belge, onay yazısı"
+beglaubigen,"to certify, notarize",Behörden & Papierkram,Die Kopie muss beglaubigt werden.,v,"onaylamak, tasdik etmek"
+das Formular ausfüllen,to fill out a form,Behörden & Papierkram,Bitte füllen Sie dieses Formular vollständig aus.,v,formu doldurmak
+einreichen,to submit (documents),Behörden & Papierkram,Die Unterlagen müssen bis Freitag eingereicht werden.,v,"teslim etmek, sunmak"
+die Frist verlängern,to extend a deadline,Behörden & Papierkram,Können Sie die Frist um eine Woche verlängern?,v,süreyi uzatmak
+der Antrag,"application, request",Behörden & Papierkram,Ich möchte einen Antrag stellen.,n,"başvuru, dilekçe"
+beantragen,to apply for,Behörden & Papierkram,Sie müssen den Pass rechtzeitig beantragen.,v,"başvurmak, talep etmek"
+die Steuerpflicht,tax liability,Behörden & Papierkram,Ab wann besteht hier Steuerpflicht?,n,vergi yükümlülüğü
+die Sozialversicherungsnummer,social security number,Behörden & Papierkram,Ihre Sozialversicherungsnummer steht auf der Karte.,n,sosyal güvenlik numarası
+der Wohnsitz,place of residence,Behörden & Papierkram,Mein Wohnsitz ist seit März in Zürich.,n,ikametgah
+zuständig sein,to be in charge / responsible,Behörden & Papierkram,Welches Amt ist dafür zuständig?,v,yetkili/sorumlu olmak
+die Öffnungszeiten der Behörde,office hours (authority),Behörden & Papierkram,Die Öffnungszeiten der Behörde sind nur vormittags.,n,resmi kurum çalışma saatleri
+geradeaus,straight ahead,Wegbeschreibung & Orientierung,Gehen Sie hier einfach geradeaus.,adv,"doğru ilerleyin, dümdüz"
+links abbiegen,to turn left,Wegbeschreibung & Orientierung,An der Ampel links abbiegen.,v,sola dönmek
+rechts abbiegen,to turn right,Wegbeschreibung & Orientierung,Biegen Sie nach der Brücke rechts ab.,v,sağa dönmek
+die Kreuzung,intersection,Wegbeschreibung & Orientierung,An der nächsten Kreuzung müssen Sie warten.,n,kavşak
+die Ecke,corner,Wegbeschreibung & Orientierung,Das Geschäft ist gleich um die Ecke.,n,köşe
+die Karte,map,Wegbeschreibung & Orientierung,Schauen wir kurz auf die Karte.,n,harita
+sich orientieren,"to find one's way, orient oneself",Wegbeschreibung & Orientierung,Ohne Karte kann ich mich schlecht orientieren.,v,yön bulmak
+sich verlaufen,to get lost (on foot),Wegbeschreibung & Orientierung,Wir haben uns in der Altstadt verlaufen.,v,yolunu kaybetmek (yürürken)
+der Wegweiser,signpost,Wegbeschreibung & Orientierung,Folgen Sie einfach den Wegweisern.,n,"yol işareti, tabela"
+gegenüber,"across from, opposite",Wegbeschreibung & Orientierung,Die Apotheke ist gegenüber vom Bahnhof.,prep,karşısında
+in der Nähe von,"near, close to",Wegbeschreibung & Orientierung,Das Hotel liegt in der Nähe vom Zentrum.,prep,yakınında
+die Entfernung,distance,Wegbeschreibung & Orientierung,Wie groß ist die Entfernung bis dorthin?,n,mesafe
+zu Fuß,on foot,Wegbeschreibung & Orientierung,Das ist zu Fuß nur fünf Minuten entfernt.,adv,yürüyerek
+der Block,block (street),Wegbeschreibung & Orientierung,Gehen Sie zwei Blocks weiter.,n,blok (sokak)
+die Hauptstraße,main street,Wegbeschreibung & Orientierung,Das Büro liegt direkt an der Hauptstraße.,n,ana cadde
+der Stadtplan,city map,Wegbeschreibung & Orientierung,Am Bahnhof bekommen Sie einen kostenlosen Stadtplan.,n,şehir haritası
+die Richtung wechseln,to change direction,Wegbeschreibung & Orientierung,Wir müssen hier die Richtung wechseln.,v,yön değiştirmek
+am Ende der Straße,at the end of the street,Wegbeschreibung & Orientierung,Das Haus steht am Ende der Straße.,adv,sokağın sonunda
+sich freuen auf,to look forward to,Verben mit Präpositionen,Ich freue mich auf das Wochenende.,v,sabırsızlıkla beklemek (gelecek bir şeyi)
+sich freuen über,to be happy about,Verben mit Präpositionen,Sie freut sich über das Geschenk.,v,memnun olmak (olmuş bir şeye)
+warten auf,to wait for,Verben mit Präpositionen,Ich warte schon zehn Minuten auf den Bus.,v,beklemek (birini/bir şeyi)
+denken an,to think of/about,Verben mit Präpositionen,Ich denke oft an meine Familie.,v,düşünmek (biri/bir şey hakkında)
+sich interessieren für,to be interested in,Verben mit Präpositionen,Er interessiert sich sehr für Musik.,v,ilgilenmek
+sich kümmern um,to take care of,Verben mit Präpositionen,Wer kümmert sich um die Kinder?,v,"ilgilenmek, bakmak"
+sich erinnern an,to remember,Verben mit Präpositionen,Erinnerst du dich an unseren ersten Tag?,v,hatırlamak
+sich gewöhnen an,to get used to,Verben mit Präpositionen,Ich habe mich an das Wetter gewöhnt.,v,alışmak
+sich beschäftigen mit,"to deal with, occupy oneself with",Verben mit Präpositionen,Ich beschäftige mich gerade mit dem neuen Projekt.,v,"ilgilenmek, uğraşmak"
+sich entscheiden für,to decide on/in favor of,Verben mit Präpositionen,Wir haben uns für das günstigere Angebot entschieden.,v,lehine karar vermek
+sich beschweren über,to complain about,Verben mit Präpositionen,Der Kunde beschwert sich über die Lieferzeit.,v,şikayet etmek
+sich bedanken für,to thank someone for,Verben mit Präpositionen,Ich bedanke mich herzlich für Ihre Hilfe.,v,teşekkür etmek
+sich verlassen auf,to rely on,Verben mit Präpositionen,Auf ihn kann man sich immer verlassen.,v,"güvenmek, dayanmak"
+teilnehmen an,to take part in,Verben mit Präpositionen,Wer nimmt an der Besprechung teil?,v,katılmak
+bestehen aus,to consist of,Verben mit Präpositionen,Das Team besteht aus fünf Personen.,v,"oluşmak, ibaret olmak"
+achten auf,to pay attention to,Verben mit Präpositionen,Achten Sie bitte auf den Stufenabsatz.,v,dikkat etmek
+träumen von,to dream of,Verben mit Präpositionen,Sie träumt schon lange von einer eigenen Firma.,v,"hayalini kurmak, rüyasını görmek"
+Angst haben vor,to be afraid of,Verben mit Präpositionen,Viele Menschen haben Angst vor Spinnen.,v,korkmak
+ja (Partikel),"after all, you know (emphasis particle)",Modalpartikeln & Alltagsfloskeln,Das ist ja wirklich nicht so schwer.,adv,"zaten, ya (vurgu edatı)"
+doch (Partikel),"after all, do (emphasis particle)",Modalpartikeln & Alltagsfloskeln,Komm doch mit uns!,adv,"hadi, ama (vurgu edatı)"
+halt (Partikel),"just, simply (Southern German/Swiss particle)",Modalpartikeln & Alltagsfloskeln,Das ist halt so im Leben.,adv,işte öyle (vurgu edatı)
+eben (Partikel),"just, exactly (emphasis particle)",Modalpartikeln & Alltagsfloskeln,Das ist eben das Problem.,adv,"tam da, işte (vurgu edatı)"
+mal (Partikel),"just, sometime (softening particle)",Modalpartikeln & Alltagsfloskeln,Kannst du mal kurz helfen?,adv,"bir, bir kere (yumuşatma edatı)"
+na,well (interjection),Modalpartikeln & Alltagsfloskeln,"Na, wie war dein Tag?",interj,"ee, hadi (ünlem)"
+na ja,"well, I mean",Modalpartikeln & Alltagsfloskeln,"Na ja, es geht so.",interj,"şey, eh işte"
+eigentlich,"actually, by the way",Modalpartikeln & Alltagsfloskeln,Was machst du eigentlich beruflich?,adv,aslında
+sowieso,"anyway, in any case",Modalpartikeln & Alltagsfloskeln,Ich komme sowieso vorbei.,adv,"zaten, nasılsa"
+genau,"exactly, right (agreement)",Modalpartikeln & Alltagsfloskeln,"Genau, so meinte ich das.",interj,"kesinlikle, tam olarak"
+klar,"sure, of course",Modalpartikeln & Alltagsfloskeln,"Klar, das mache ich gerne.",interj,"tabii, elbette"
+kein Ding,"no problem, no worries (colloquial)",Modalpartikeln & Alltagsfloskeln,"Kein Ding, das mache ich gerne.",interj,sorun değil (günlük dil)
+Alles klar?,Everything OK? / Got it?,Modalpartikeln & Alltagsfloskeln,"Alles klar, dann sehen wir uns morgen.",interj,Her şey tamam mı?
+Mach's gut.,Take care (informal goodbye).,Modalpartikeln & Alltagsfloskeln,"Mach's gut, bis bald!",interj,Kendine iyi bak.
+Wie bitte?,Pardon? Excuse me? (asking to repeat),Modalpartikeln & Alltagsfloskeln,Wie bitte? Ich habe Sie nicht verstanden.,interj,Efendim? (tekrar isteme)
+Schon gut.,It's fine. / Never mind.,Modalpartikeln & Alltagsfloskeln,"Schon gut, das macht nichts.",interj,"Sorun değil, boş ver."
+Echt?,Really? (colloquial),Modalpartikeln & Alltagsfloskeln,Echt? Das wusste ich nicht.,interj,Gerçekten mi?
+genau genommen,strictly speaking,Modalpartikeln & Alltagsfloskeln,Genau genommen stimmt das nicht ganz.,adv,"tam anlamıyla, aslına bakılırsa"
