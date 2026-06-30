@@ -52,6 +52,7 @@
     background:var(--card); border:1px solid var(--line); border-radius:18px;
     padding:44px 24px; text-align:center; cursor:pointer; user-select:none;
     min-height:240px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:14px;
+    touch-action:pan-y;
   }
   .card .cat{font-family:Arial,sans-serif; font-size:12px; color:var(--accent); text-transform:uppercase; letter-spacing:0.5px;}
   .card .word{font-size:38px; font-weight:600; line-height:1.2;}
@@ -59,6 +60,9 @@
   .card .hint{font-family:Arial,sans-serif; font-size:13px; color:var(--muted); margin-top:8px;}
   .card .answer{font-size:25px; color:var(--accent);}
   .card .pos{font-family:Arial,sans-serif; font-size:11px; color:var(--muted); text-transform:uppercase;}
+
+  .skip-row{text-align:center; margin-top:12px; font-family:Arial,sans-serif;}
+  .skip-row span{display:inline-block; padding:8px 14px; font-size:13px; color:var(--muted); cursor:pointer; text-decoration:underline;}
 
   .grade-row{display:flex; gap:8px; margin-top:18px; font-family:Arial,sans-serif;}
   .grade-row button{
@@ -278,12 +282,25 @@ function grade(word, level){
   saveProgress();
 }
 
+function skipCard(){
+  if(!current || queue.length === 0) return;
+  const word = queue.shift();
+  queue.push(word);
+  const p = ensureEntry(word);
+  p.skipped = (p.skipped || 0) + 1;
+  p.due = todayStamp();
+  saveProgress();
+  revealed = false;
+  current = queue[0] || null;
+  renderStudy();
+}
+
 function computeStats(){
   const today = todayStamp();
   let learned = 0, dueToday = 0, mastered = 0;
   WORD_DATA.forEach(w=>{
     const p = progress[keyFor(w)];
-    if(p){
+    if(p && p.seen > 0){
       learned++;
       if(p.due <= today) dueToday++;
       if(p.box >= 4) mastered++;
@@ -325,8 +342,9 @@ function renderStudy(){
     <div class="card" id="cardEl">
       <div class="cat">${current.cat}${current.pos ? " · " + current.pos : ""}</div>
       <div class="word">${prompt}</div>
-      ${revealed ? `<div class="answer">${answer}</div>${current.ex ? `<div class="ex">${current.ex}</div>` : ""}` : `<div class="hint">Tippen zum Aufdecken</div>`}
+      ${revealed ? `<div class="answer">${answer}</div>${current.ex ? `<div class="ex">${current.ex}</div>` : ""}` : `<div class="hint">Tippen zum Aufdecken &middot; Wischen zum Überspringen</div>`}
     </div>
+    <div class="skip-row"><span id="skipBtn">Überspringen ›</span></div>
     <div class="grade-row" style="${revealed ? '' : 'visibility:hidden'}">
       <button class="g-again" data-g="again">Nochmal</button>
       <button class="g-hard" data-g="hard">Schwer</button>
@@ -334,7 +352,33 @@ function renderStudy(){
       <button class="g-easy" data-g="easy">Leicht</button>
     </div>
   `;
-  document.getElementById("cardEl").onclick = ()=>{ revealed = true; renderStudy(); };
+  const cardEl = document.getElementById("cardEl");
+  let touchStartX = 0, touchStartY = 0, swiped = false;
+  cardEl.onclick = ()=>{
+    if(swiped){ swiped = false; return; }
+    revealed = true;
+    renderStudy();
+  };
+  document.getElementById("skipBtn").onclick = (e)=>{ e.stopPropagation(); skipCard(); };
+
+  cardEl.addEventListener("touchstart", (e)=>{
+    touchStartX = e.changedTouches[0].clientX;
+    touchStartY = e.changedTouches[0].clientY;
+    swiped = false;
+  }, {passive:true});
+  cardEl.addEventListener("touchmove", (e)=>{
+    const dx = e.changedTouches[0].clientX - touchStartX;
+    const dy = e.changedTouches[0].clientY - touchStartY;
+    if(Math.abs(dx) > 30 && Math.abs(dx) > Math.abs(dy)) swiped = true;
+  }, {passive:true});
+  cardEl.addEventListener("touchend", (e)=>{
+    const dx = e.changedTouches[0].clientX - touchStartX;
+    const dy = e.changedTouches[0].clientY - touchStartY;
+    if(Math.abs(dx) > 60 && Math.abs(dx) > Math.abs(dy)){
+      e.preventDefault();
+      skipCard();
+    }
+  });
   document.querySelectorAll(".grade-row button").forEach(b=>{
     b.onclick = (e)=>{
       e.stopPropagation();
@@ -361,8 +405,11 @@ function renderBrowse(){
     html += `<div class="cat-head">${cat}</div><div class="browse-list">`;
     cats[cat].forEach(w=>{
       const p = progress[keyFor(w)];
-      const label = p ? (p.box>=4 ? "gefestigt" : "Box " + p.box) : "neu";
-      html += `<div class="browse-row"><div><span class="de">${w.de}</span> — ${w[targetField()] || w.en}</div><div class="box">${label}</div></div>`;
+      const label = p ? (p.seen>0 ? (p.box>=4 ? "gefestigt" : "Box " + p.box) : "übersprungen") : "neu";
+      const target = w[targetField()] || w.en;
+      const left = direction === "de-en" ? w.de : target;
+      const right = direction === "de-en" ? target : w.de;
+      html += `<div class="browse-row"><div><span class="de">${left}</span> — ${right}</div><div class="box">${label}</div></div>`;
     });
     html += `</div>`;
   });
